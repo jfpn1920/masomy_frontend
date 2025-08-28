@@ -726,6 +726,1214 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
+.categorias_mas_descuentos{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_mas_descuentos_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_descuentos_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_descuentos_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_descuentos_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_descuentos_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_descuentos_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_descuentos_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_descuentos_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+/*----------------------*/
+/*--|estilo_categoria|--*/
+/*----------------------*/
+.categorias_por_hombres{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_de_hombres_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_hombres_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_hombres_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_hombres_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_hombres_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_hombres_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_hombres_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_hombres_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_hombres_9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_hombres_10 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_hombres_11 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_hombres_12 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_mujeres{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_de_mujeres_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_mujeres_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_mujeres_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_mujeres_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_mujeres_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_mujeres_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_mujeres_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_mujeres_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_mujeres_9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_niños{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_de_niños_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niños_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niños_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niños_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niños_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niños_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niños_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niños_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niños_9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_niñas{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_de_niñas_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niñas_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niñas_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niñas_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niñas_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niñas_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niñas_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niñas_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niñas_9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niñas_10 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niñas_11 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_niñas_12 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_bebes{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_de_bebes_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_bebes_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_bebes_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_bebes_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_bebes_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_bebes_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_bebes_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_bebes_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_bebes_9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_de_bebes_10 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_talla_xxs{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_talla_xxs_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_10 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_11 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_12 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxs_13 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_talla_xs{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_talla_xs_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_10 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_11 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_12 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_13 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}.producto_talla_xs_14 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_15 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_16 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xs_17 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+/*------*/
+/*--||--*/
+/*------*/
+
 /*-----------------------------------*/
 /*--|estilo_resultados_de_busqueda|--*/
 /*-----------------------------------*/
