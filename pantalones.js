@@ -2012,17 +2012,967 @@ const productos_xs = `
     </div>
 `;
 const productos_s = `
+    <div class="categorias_por_talla_s">
+        <div class="producto_talla_s_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | s | azul |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_talla_s_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | s | azul |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_talla_s_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | s | azul |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_talla_s_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | s | azul |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_talla_s_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | s | azul |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_talla_s_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | s | azul |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_talla_s_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | s | azul |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_talla_s_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | s | azul |<br>$40.000
+            </div>
+        </div>
+    </div>
 `;
 const productos_m = `
+    <div class="categorias_por_talla_m">
+        <div class="producto_talla_m_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | azul |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_talla_m_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_talla_m_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_talla_m_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_talla_m_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_talla_m_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_talla_m_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_talla_m_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$40.000
+            </div>
+        </div>
+        <div class="producto_talla_m_9">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$39.999
+            </div>
+        </div>                    
+        <div class="producto_talla_m_10">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$37.900
+            </div>
+        </div>
+        <div class="producto_talla_m_11">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$123.000
+            </div>
+        </div>
+        <div class="producto_talla_m_12">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$35.100
+            </div>
+        </div>
+        <div class="producto_talla_m_13">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$30.000
+            </div>
+        </div>
+        <div class="producto_talla_m_14">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$27.180
+            </div>
+        </div>
+    </div>
 `;
 const productos_l = `
+    <div class="categorias_por_talla_m">
+        <div class="producto_talla_l_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | l | azul |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_talla_l_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | l | azul |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_talla_l_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | l | azul |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_talla_l_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | l | azul |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_talla_l_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | l | azul |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_talla_l_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | l | azul |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_talla_l_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | l | azul |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_talla_l_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | l | azul |<br>$40.000
+            </div>
+        </div>
+        <div class="producto_talla_l_9">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | l | azul |<br>$39.999
+            </div>
+        </div>                    
+    </div>
 `;
 const productos_xl = `
+    <div class="categorias_por_talla_m">
+        <div class="producto_talla_xl_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xl | azul |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_talla_xl_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xl | azul |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_talla_xl_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xl | azul |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_talla_xl_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xl | azul |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_talla_xl_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xl | azul |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_talla_xl_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xl | azul |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_talla_xl_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xl | azul |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_talla_xl_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xl | azul |<br>$40.000
+            </div>
+        </div>                    
+    </div>
 `;
 const productos_xxl = `
+    <div class="categorias_por_talla_xxl">
+        <div class="producto_talla_xxl_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxl | azul |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_talla_xxl_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxl | azul |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_talla_xxl_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxl | azul |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_talla_xxl_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxl | azul |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_talla_xxl_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxl | azul |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_talla_xxl_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxl | azul |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_talla_xxl_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxl | azul |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_talla_xxl_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxl | azul |<br>$40.000
+            </div>
+        </div>
+        <div class="producto_talla_xxl_9">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxl | azul |<br>$39.999
+            </div>
+        </div>                    
+        <div class="producto_talla_xxl_10">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxl | azul |<br>$37.900
+            </div>
+        </div>
+        <div class="producto_talla_xxl_11">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxl | azul |<br>$123.000
+            </div>
+        </div>
+        <div class="producto_talla_xxl_12">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxl | azul |<br>$35.100
+            </div>
+        </div>
+    </div>
 `;
 const productos_xxxl = `
+    <div class="categorias_por_talla_xxxl">
+        <div class="producto_talla_xxxl_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | azul |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_talla_xxxl_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | azul |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_talla_xxxl_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | azul |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_talla_xxxl_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | azul |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_talla_xxxl_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | azul |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_talla_xxxl_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | azul |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_talla_xxxl_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | azul |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_talla_xxxl_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | azul |<br>$40.000
+            </div>
+        </div>
+        <div class="producto_talla_xxxl_9">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | azul |<br>$39.999
+            </div>
+        </div>                    
+        <div class="producto_talla_xxxl_10">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | azul |<br>$37.900
+            </div>
+        </div>
+        <div class="producto_talla_xxxl_11">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | azul |<br>$123.000
+            </div>
+        </div>
+    </div>
 `;
+// NUEVOS ESTILOS
+const productos_verticales   = `
+`;
+const productos_horizontales = `
+`;
+//-------------------------//
+//--|Funciones de Filtros|--//
+//-------------------------//
 function aplicarFiltroOrdenPrecio() {
     const precioAltoEl     = document.getElementById('orden-precio-alto');
     const precioBajoEl     = document.getElementById('orden-precio-bajo');
@@ -2097,7 +3047,23 @@ function aplicarFiltroTalla() {
         contenedor.innerHTML = '';
     }
 }
+// NUEVO FILTRO DE ESTILO
+function aplicarFiltroEstilo() {
+    const estiloVerticalEl   = document.querySelector('input[value="vertical"]');
+    const estiloHorizontalEl = document.querySelector('input[value="horizontal"]');
+    if (estiloVerticalEl && estiloVerticalEl.checked) {
+        contenedor.innerHTML = productos_verticales;
+    } else if (estiloHorizontalEl && estiloHorizontalEl.checked) {
+        contenedor.innerHTML = productos_horizontales;
+    } else {
+        contenedor.innerHTML = '';
+    }
+}
+//-----------------------------//
+//--|Asignación de Eventos|----//
+//-----------------------------//
 document.addEventListener('DOMContentLoaded', () => {
+    // filtros orden
     const precioAltoEl   = document.getElementById('orden-precio-alto');
     const precioBajoEl   = document.getElementById('orden-precio-bajo');
     const masVendidosEl  = document.querySelector('input[value="mas_vendidos"]');
@@ -2108,6 +3074,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (masVendidosEl)  masVendidosEl.addEventListener('change', aplicarFiltroOrdenPrecio);
     if (masRecientesEl) masRecientesEl.addEventListener('change', aplicarFiltroOrdenPrecio);
     if (descuentosEl)   descuentosEl.addEventListener('change', aplicarFiltroOrdenPrecio);
+    // filtros categorías
     const catHombres = document.getElementById('cat-hombres');
     const catMujeres = document.getElementById('cat-mujeres');
     const catNinos   = document.getElementById('cat-ninos');
@@ -2118,6 +3085,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (catNinos)   catNinos.addEventListener('change', aplicarFiltroCategoria);
     if (catNinas)   catNinas.addEventListener('change', aplicarFiltroCategoria);
     if (catBebes)   catBebes.addEventListener('change', aplicarFiltroCategoria);
+    // filtros tallas
     const tallaXXS  = document.getElementById('talla-xxs');
     const tallaXS   = document.getElementById('talla-xs');
     const tallaS    = document.getElementById('talla-s');
@@ -2134,6 +3102,11 @@ document.addEventListener('DOMContentLoaded', () => {
     if (tallaXL)   tallaXL.addEventListener('change', aplicarFiltroTalla);
     if (tallaXXL)  tallaXXL.addEventListener('change', aplicarFiltroTalla);
     if (tallaXXXL) tallaXXXL.addEventListener('change', aplicarFiltroTalla);
+    // filtros estilo
+    const estiloVerticalEl   = document.querySelector('input[value="vertical"]');
+    const estiloHorizontalEl = document.querySelector('input[value="horizontal"]');
+    if (estiloVerticalEl)   estiloVerticalEl.addEventListener('change', aplicarFiltroEstilo);
+    if (estiloHorizontalEl) estiloHorizontalEl.addEventListener('change', aplicarFiltroEstilo);
 });
 //---------------------------------//
 //--|funcionalidad_boton_ver_mas|--//

@@ -1930,10 +1930,835 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-/*------*/
-/*--||--*/
-/*------*/
-
+.categorias_por_talla_s{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_talla_s_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_s_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_s_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_s_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_s_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_s_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_s_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_s_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_talla_m{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_talla_m_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_10 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_11 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_12 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_m_13 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}.producto_talla_m_14 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_talla_l{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_talla_l_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_l_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_l_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_l_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_l_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_l_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_l_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_l_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_l_9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_talla_xl{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_talla_xl_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xl_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xl_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xl_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xl_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xl_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xl_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xl_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_talla_xxl{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_talla_xxl_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxl_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxl_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxl_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxl_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxl_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxl_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxl_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxl_9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxl_10 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxl_11 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxl_12 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_talla_xxxl{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_talla_xxxl_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxxl_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxxl_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxxl_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxxl_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxxl_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxxl_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxxl_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxxl_9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxxl_10 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_talla_xxxl_11 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
 /*-----------------------------------*/
 /*--|estilo_resultados_de_busqueda|--*/
 /*-----------------------------------*/
