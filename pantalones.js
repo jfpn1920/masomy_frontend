@@ -2965,6 +2965,904 @@ const productos_xxxl = `
         </div>
     </div>
 `;
+// productos por color
+const productos_rojo= `
+    <div class="categorias_por_color_rojo">
+        <div class="producto_color_rojo_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | rojo |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | rojo |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_color_rojo_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | rojo |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_color_rojo_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | rojo |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | rojo |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | rojo |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_color_rojo_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | rojo |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | rojo |<br>$40.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_9">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | rojo |<br>$39.999
+            </div>
+        </div>                    
+        <div class="producto_color_rojo_10">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | rojo |<br>$37.900
+            </div>
+        </div>
+    </div>
+`;
+const productos_naranja= `
+    <div class="categorias_por_color_naranja">
+        <div class="producto_color_naranja_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | naranja |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_color_naranja_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | naranja |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_color_naranja_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | naranja |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_color_naranja_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | naranja |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_color_naranja_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | naranja |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_color_naranja_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | naranja |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_color_naranja_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | naranja |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_color_naranja_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | xxxl | naranja |<br>$40.000
+            </div>
+        </div>
+    </div>
+`;
+const productos_amarillo= `
+    <div class="categorias_por_color_amarillo">
+        <div class="producto_color_amarillo_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | amarillo |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_color_amarillo_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_color_amarillo_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_color_amarillo_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_color_amarillo_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_color_amarillo_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_color_amarillo_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_color_amarillo_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$40.000
+            </div>
+        </div>
+        <div class="producto_color_amarillo_9">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$39.999
+            </div>
+        </div>                    
+        <div class="producto_color_amarillo_10">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$37.900
+            </div>
+        </div>
+        <div class="producto_color_amarillo_11">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$123.000
+            </div>
+        </div>
+        <div class="producto_color_amarillo_12">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$35.100
+            </div>
+        </div>
+        <div class="producto_color_amarillo_13">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | amarillo |<br>$30.000
+            </div>
+        </div>
+    </div>
+`;
+const productos_verde= `
+    <div class="categorias_por_color_verde">
+        <div class="producto_color_verde_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | verde |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_color_verde_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | verde |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_color_verde_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | verde |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_color_verde_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | verde |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_color_verde_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | verde |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_color_verde_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | verde |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_color_verde_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | verde |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_color_verde_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | verde |<br>$40.000
+            </div>
+        </div>
+        <div class="producto_color_verde_9">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | verde |<br>$39.999
+            </div>
+        </div>                    
+        <div class="producto_color_verde_10">
+            <div class="producto-header">
+                Masomy-s
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | verde |<br>$37.900
+            </div>
+        </div>
+    </div>
+`;
+const productos_azul= `
+    <div class="categorias_por_color_azul">
+        <div class="producto_color_azul_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | azul |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_color_azul_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_color_azul_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_color_azul_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_color_azul_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_color_azul_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_color_azul_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_color_azul_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | azul |<br>$40.000
+            </div>
+        </div>
+    </div>
+`;
+const productos_morado= `
+    <div class="categorias_por_color_morado">
+        <div class="producto_color_morado_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | morado |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_color_morado_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | morado |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_color_morado_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | morado |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_color_morado_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | morado |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_color_morado_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | morado |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_color_morado_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | morado |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_color_morado_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | morado |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_color_morado_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | morado |<br>$40.000
+            </div>
+        </div>
+        <div class="producto_color_morado_9">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | morado |<br>$39.999
+            </div>
+        </div>                    
+        </div>
+    </div>
+`;
+const productos_otros_colores= `
+`;
 //------------------------------//
 //--|mostrar / ocultar extras|--//
 //------------------------------//
@@ -2976,7 +3874,7 @@ function ocultarVerMas() {
 }
 function mostrarVerMas() {
     if (btnVerMas) btnVerMas.style.display = 'block';
-    if (indicadores) indicadores.style.display = 'flex'; // flex para alinear los dots
+    if (indicadores) indicadores.style.display = 'flex';
 }
 //-------------------------//
 //--|Funciones de Filtros|--//
@@ -3009,7 +3907,7 @@ function aplicarFiltroOrdenPrecio() {
         ocultarVerMas();
     } else {
         contenedor.innerHTML = '';
-        mostrarVerMas(); // 👈 cuando no hay filtros, vuelven a mostrarse
+        mostrarVerMas();
     }
 }
 function aplicarFiltroCategoria() {
@@ -3076,6 +3974,40 @@ function aplicarFiltroTalla() {
         mostrarVerMas();
     }
 }
+function aplicarFiltroColor() {
+    const colorRojo     = document.getElementById('color-rojo');
+    const colorNaranja  = document.getElementById('color-naranja');
+    const colorAmarillo = document.getElementById('color-amarillo');
+    const colorVerde    = document.getElementById('color-verde');
+    const colorAzul     = document.getElementById('color-azul');
+    const colorMorado   = document.getElementById('color-morado');
+    const colorOtros    = document.getElementById('color-otros-colores');
+    if (colorRojo && colorRojo.checked) {
+        contenedor.innerHTML = productos_rojo;
+        ocultarVerMas();
+    } else if (colorNaranja && colorNaranja.checked) {
+        contenedor.innerHTML = productos_naranja;
+        ocultarVerMas();
+    } else if (colorAmarillo && colorAmarillo.checked) {
+        contenedor.innerHTML = productos_amarillo;
+        ocultarVerMas();
+    } else if (colorVerde && colorVerde.checked) {
+        contenedor.innerHTML = productos_verde;
+        ocultarVerMas();
+    } else if (colorAzul && colorAzul.checked) {
+        contenedor.innerHTML = productos_azul;
+        ocultarVerMas();
+    } else if (colorMorado && colorMorado.checked) {
+        contenedor.innerHTML = productos_morado;
+        ocultarVerMas();
+    } else if (colorOtros && colorOtros.checked) {
+        contenedor.innerHTML = productos_otros_colores;
+        ocultarVerMas();
+    } else {
+        contenedor.innerHTML = '';
+        mostrarVerMas();
+    }
+}
 //-----------------------------//
 //--|Asignación de Eventos|----//
 //-----------------------------//
@@ -3119,6 +4051,21 @@ document.addEventListener('DOMContentLoaded', () => {
     if (tallaXL)   tallaXL.addEventListener('change', aplicarFiltroTalla);
     if (tallaXXL)  tallaXXL.addEventListener('change', aplicarFiltroTalla);
     if (tallaXXXL) tallaXXXL.addEventListener('change', aplicarFiltroTalla);
+    // filtros colores
+    const colorRojo     = document.getElementById('color-rojo');
+    const colorNaranja  = document.getElementById('color-naranja');
+    const colorAmarillo = document.getElementById('color-amarillo');
+    const colorVerde    = document.getElementById('color-verde');
+    const colorAzul     = document.getElementById('color-azul');
+    const colorMorado   = document.getElementById('color-morado');
+    const colorOtros    = document.getElementById('color-otros-colores');
+    if (colorRojo)     colorRojo.addEventListener('change', aplicarFiltroColor);
+    if (colorNaranja)  colorNaranja.addEventListener('change', aplicarFiltroColor);
+    if (colorAmarillo) colorAmarillo.addEventListener('change', aplicarFiltroColor);
+    if (colorVerde)    colorVerde.addEventListener('change', aplicarFiltroColor);
+    if (colorAzul)     colorAzul.addEventListener('change', aplicarFiltroColor);
+    if (colorMorado)   colorMorado.addEventListener('change', aplicarFiltroColor);
+    if (colorOtros)    colorOtros.addEventListener('change', aplicarFiltroColor);
 });
 //---------------------------------//
 //--|funcionalidad_boton_ver_mas|--//
