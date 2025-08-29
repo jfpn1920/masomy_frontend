@@ -2965,20 +2965,28 @@ const productos_xxxl = `
         </div>
     </div>
 `;
-// NUEVOS ESTILOS
-const productos_verticales   = `
-`;
-const productos_horizontales = `
-`;
+//------------------------------//
+//--|mostrar / ocultar extras|--//
+//------------------------------//
+const btnVerMas   = document.getElementById('btn-ver-mas');
+const indicadores = document.getElementById('indicadores');
+function ocultarVerMas() {
+    if (btnVerMas) btnVerMas.style.display = 'none';
+    if (indicadores) indicadores.style.display = 'none';
+}
+function mostrarVerMas() {
+    if (btnVerMas) btnVerMas.style.display = 'block';
+    if (indicadores) indicadores.style.display = 'flex'; // flex para alinear los dots
+}
 //-------------------------//
 //--|Funciones de Filtros|--//
 //-------------------------//
 function aplicarFiltroOrdenPrecio() {
-    const precioAltoEl     = document.getElementById('orden-precio-alto');
-    const precioBajoEl     = document.getElementById('orden-precio-bajo');
-    const masVendidosEl    = document.querySelector('input[value="mas_vendidos"]');
-    const masRecientesEl   = document.querySelector('input[value="mas_recientes"]');
-    const descuentosEl     = document.querySelector('input[value="descuentos"]');
+    const precioAltoEl   = document.getElementById('orden-precio-alto');
+    const precioBajoEl   = document.getElementById('orden-precio-bajo');
+    const masVendidosEl  = document.querySelector('input[value="mas_vendidos"]');
+    const masRecientesEl = document.querySelector('input[value="mas_recientes"]');
+    const descuentosEl   = document.querySelector('input[value="descuentos"]');
     const precioAlto   = !!(precioAltoEl && precioAltoEl.checked);
     const precioBajo   = !!(precioBajoEl && precioBajoEl.checked);
     const masVendidos  = !!(masVendidosEl && masVendidosEl.checked);
@@ -2986,16 +2994,22 @@ function aplicarFiltroOrdenPrecio() {
     const descuentos   = !!(descuentosEl && descuentosEl.checked);
     if (precioAlto) {
         contenedor.innerHTML = productos_con_precios_altos;
+        ocultarVerMas();
     } else if (precioBajo) {
         contenedor.innerHTML = productos_con_precios_bajos;
+        ocultarVerMas();
     } else if (masVendidos) {
         contenedor.innerHTML = productos_mas_vendidos;
+        ocultarVerMas();
     } else if (masRecientes) {
         contenedor.innerHTML = productos_mas_recientes;
+        ocultarVerMas();
     } else if (descuentos) {
         contenedor.innerHTML = productos_con_descuentos;
+        ocultarVerMas();
     } else {
         contenedor.innerHTML = '';
+        mostrarVerMas(); // 👈 cuando no hay filtros, vuelven a mostrarse
     }
 }
 function aplicarFiltroCategoria() {
@@ -3006,16 +3020,22 @@ function aplicarFiltroCategoria() {
     const catBebes   = document.getElementById('cat-bebes');
     if (catHombres && catHombres.checked) {
         contenedor.innerHTML = productos_hombres;
+        ocultarVerMas();
     } else if (catMujeres && catMujeres.checked) {
         contenedor.innerHTML = productos_mujeres;
+        ocultarVerMas();
     } else if (catNinos && catNinos.checked) {
         contenedor.innerHTML = productos_ninos;
+        ocultarVerMas();
     } else if (catNinas && catNinas.checked) {
         contenedor.innerHTML = productos_ninas;
+        ocultarVerMas();
     } else if (catBebes && catBebes.checked) {
         contenedor.innerHTML = productos_bebes;
+        ocultarVerMas();
     } else {
         contenedor.innerHTML = '';
+        mostrarVerMas();
     }
 }
 function aplicarFiltroTalla() {
@@ -3029,34 +3049,31 @@ function aplicarFiltroTalla() {
     const tallaXXXL = document.getElementById('talla-xxxl');
     if (tallaXXS && tallaXXS.checked) {
         contenedor.innerHTML = productos_xxs;
+        ocultarVerMas();
     } else if (tallaXS && tallaXS.checked) {
         contenedor.innerHTML = productos_xs;
+        ocultarVerMas();
     } else if (tallaS && tallaS.checked) {
         contenedor.innerHTML = productos_s;
+        ocultarVerMas();
     } else if (tallaM && tallaM.checked) {
         contenedor.innerHTML = productos_m;
+        ocultarVerMas();
     } else if (tallaL && tallaL.checked) {
         contenedor.innerHTML = productos_l;
+        ocultarVerMas();
     } else if (tallaXL && tallaXL.checked) {
         contenedor.innerHTML = productos_xl;
+        ocultarVerMas();
     } else if (tallaXXL && tallaXXL.checked) {
         contenedor.innerHTML = productos_xxl;
+        ocultarVerMas();
     } else if (tallaXXXL && tallaXXXL.checked) {
         contenedor.innerHTML = productos_xxxl;
+        ocultarVerMas();
     } else {
         contenedor.innerHTML = '';
-    }
-}
-// NUEVO FILTRO DE ESTILO
-function aplicarFiltroEstilo() {
-    const estiloVerticalEl   = document.querySelector('input[value="vertical"]');
-    const estiloHorizontalEl = document.querySelector('input[value="horizontal"]');
-    if (estiloVerticalEl && estiloVerticalEl.checked) {
-        contenedor.innerHTML = productos_verticales;
-    } else if (estiloHorizontalEl && estiloHorizontalEl.checked) {
-        contenedor.innerHTML = productos_horizontales;
-    } else {
-        contenedor.innerHTML = '';
+        mostrarVerMas();
     }
 }
 //-----------------------------//
@@ -3102,11 +3119,6 @@ document.addEventListener('DOMContentLoaded', () => {
     if (tallaXL)   tallaXL.addEventListener('change', aplicarFiltroTalla);
     if (tallaXXL)  tallaXXL.addEventListener('change', aplicarFiltroTalla);
     if (tallaXXXL) tallaXXXL.addEventListener('change', aplicarFiltroTalla);
-    // filtros estilo
-    const estiloVerticalEl   = document.querySelector('input[value="vertical"]');
-    const estiloHorizontalEl = document.querySelector('input[value="horizontal"]');
-    if (estiloVerticalEl)   estiloVerticalEl.addEventListener('change', aplicarFiltroEstilo);
-    if (estiloHorizontalEl) estiloHorizontalEl.addEventListener('change', aplicarFiltroEstilo);
 });
 //---------------------------------//
 //--|funcionalidad_boton_ver_mas|--//

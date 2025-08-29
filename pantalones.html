@@ -69,19 +69,14 @@
             <label><input type="checkbox" id="talla-xxxl" name="talla" value="xxxl"> XXXL</label>
         </div>
         <div class="filtro-opciones">
-            <p><strong>ESTILO</strong></p>
-            <label><input type="checkbox" name="estilo" value="vertical"> Vertical</label>
-            <label><input type="checkbox" name="estilo" value="horizontal"> Horizontal</label>
-        </div>
-        <div class="filtro-opciones">
-            <p><strong>PRECIO</strong></p>
-            <div class="slider-precio">
-                <input type="range" id="precioMin" min="0" max="500000" step="10000" value="50000" oninput="actualizarPrecio()">
-                <input type="range" id="precioMax" min="0" max="500000" step="10000" value="300000" oninput="actualizarPrecio()">
-                <div class="precios-mostrados">
-                    <span id="valorMin">$50.000</span> - <span id="valorMax">$300.000</span>
-                </div>
-            </div>
+            <p><strong>COLOR</strong></p>
+            <label><input type="checkbox" id="color-rojo" name="color" value="rojo"> Rojo</label>
+            <label><input type="checkbox" id="color-naranja" name="color" value="naranja"> Naranja</label>
+            <label><input type="checkbox" id="color-amarillo" name="color" value="amarillo"> Amarillo</label>
+            <label><input type="checkbox" id="color-verde" name="color" value="verde"> Verde</label>
+            <label><input type="checkbox" id="color-azul" name="color" value="azul"> Azul</label>
+            <label><input type="checkbox" id="color-morado" name="color" value="morado"> Morado</label>
+            <label><input type="checkbox" id="color-otros-colores" name="color" value="otros-colores"> Otros colores</label>
         </div>
     </div>
     <!--------------------------------------->
@@ -220,7 +215,7 @@
     <!------------------------------>
     <div id="contenedor-productos" data-grupo="0">
     </div>
-    <div class="barra-progreso">
+    <div id="indicadores" class="barra-progreso">
         <span class="paso activo"></span>
         <span class="paso"></span>
     </div>
