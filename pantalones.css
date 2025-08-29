@@ -3416,9 +3416,6 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-/*------*/
-/*--||--*/
-/*------*/
 .categorias_por_color_morado{
     margin-top: -814px;
     margin-left: 277px;
@@ -3532,6 +3529,114 @@ input[type="range"] {
     height: auto;
     margin-left: -1px;
     margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_por_otros_colores{
+    margin-top: -814px;
+    margin-left: 277px;
+}
+.producto_otros_colores_1 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_otros_colores_2 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_otros_colores_3 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_otros_colores_4 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_otros_colores_5 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_otros_colores_6 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_otros_colores_7 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_otros_colores_8 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
     background-color: #e9eddb;
     border-radius: 5px;
     overflow: hidden;

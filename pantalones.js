@@ -3862,6 +3862,128 @@ const productos_morado= `
     </div>
 `;
 const productos_otros_colores= `
+    <div class="categorias_por_otros_colores">
+        <div class="producto_otros_colores_1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | salmon |<br>$345.000
+            </div>
+        </div>
+        <div class="producto_otros_colores_2">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | verde olva |<br>$137.900
+            </div>
+        </div>
+        <div class="producto_otros_colores_3">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | turquesa |<br>$56.190
+            </div>
+        </div>
+        <div class="producto_otros_colores_4">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | blanco |<br>$51.000
+            </div>
+        </div>
+        <div class="producto_otros_colores_5">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | rosa |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_otros_colores_6">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | gris |<br>$44.990
+            </div>
+        </div>
+        <div class="producto_otros_colores_7">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | marron |<br>$42.000
+            </div>
+        </div>
+        <div class="producto_otros_colores_8">
+            <div class="producto-header">
+                Masomy-h
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | camisa casual | m | negro |<br>$40.000
+            </div>
+        </div>                    
+    </div>
 `;
 //------------------------------//
 //--|mostrar / ocultar extras|--//
