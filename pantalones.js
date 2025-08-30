@@ -773,7 +773,7 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xxs | azul |<br>$90.000
+                | pantalones | xl | azul |<br>$200.000
             </div>
         </div>
         <div class="producto_de_hombres_2">
@@ -788,7 +788,7 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xxs | azul |<br>$145.000
+                | pantalones | l | verde |<br>$190.000
             </div>
         </div>
         <div class="producto_de_hombres_3">
@@ -803,7 +803,7 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | s | azul |<br>$245.000
+                | pantalones | m | rojo |<br>$180.000
             </div>
         </div>
         <div class="producto_de_hombres_4">
@@ -818,12 +818,12 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xs | azul |<br>$345.000
+                | pantalones | xxl | morado |<br>$170.000
             </div>
         </div>
         <div class="producto_de_hombres_5">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -833,12 +833,12 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$137.900
+                | pantalones | s | naranja |<br>$160.000
             </div>
         </div>
         <div class="producto_de_hombres_6">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -848,12 +848,12 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$56.190
+                | pantalones | xxxl | amarillo |<br>$150.000
             </div>
         </div>
         <div class="producto_de_hombres_7">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -863,12 +863,12 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$51.000
+                | pantalones | m | azul |<br>$140.000
             </div>
         </div>
         <div class="producto_de_hombres_8">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -878,12 +878,12 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$135.000
+                | pantalones | l | verde |<br>$130.000
             </div>
         </div>
         <div class="producto_de_hombres_9">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -893,12 +893,12 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$37.900
+                | pantalones | xl | rojo |<br>$120.000
             </div>
         </div>
         <div class="producto_de_hombres_10">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -908,12 +908,12 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$123.000
+                | pantalones | s | amarillo |<br>$110.000
             </div>
         </div>
         <div class="producto_de_hombres_11">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -923,12 +923,12 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$35.100
+                | pantalones | xxl | morado |<br>$100.000
             </div>
         </div>
         <div class="producto_de_hombres_12">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -938,7 +938,7 @@ const productos_hombres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$30.000
+                | pantalones | xs | azul |<br>$90.000
             </div>
         </div>
     </div>
@@ -947,7 +947,7 @@ const productos_mujeres = `
     <div class="categorias_por_mujeres">
         <div class="producto_de_mujeres_1">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -957,12 +957,12 @@ const productos_mujeres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$37.900
+                | pantalones | l | rojo |<br>$180.000
             </div>
         </div>
         <div class="producto_de_mujeres_2">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -972,12 +972,12 @@ const productos_mujeres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$123.000
+                | pantalones | m | azul |<br>$170.000
             </div>
         </div>
         <div class="producto_de_mujeres_3">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -987,12 +987,12 @@ const productos_mujeres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$35.100
+                | pantalones | xl | verde |<br>$160.000
             </div>
         </div>
         <div class="producto_de_mujeres_4">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1002,12 +1002,12 @@ const productos_mujeres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$30.000
+                | pantalones | s | morado |<br>$150.000
             </div>
         </div>
         <div class="producto_de_mujeres_5">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1017,12 +1017,12 @@ const productos_mujeres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$137.900
+                | pantalones | xxl | naranja |<br>$140.000
             </div>
         </div>
         <div class="producto_de_mujeres_6">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1032,12 +1032,12 @@ const productos_mujeres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$56.190
+                | pantalones | xxxl | amarillo |<br>$120.000
             </div>
         </div>
         <div class="producto_de_mujeres_7">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1047,12 +1047,12 @@ const productos_mujeres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$51.000
+                | pantalones | xxs | azul |<br>$110.000
             </div>
         </div>
         <div class="producto_de_mujeres_8">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1062,7 +1062,7 @@ const productos_mujeres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$135.000
+                | pantalones | xs | verde |<br>$90.000
             </div>
         </div>
         <div class="producto_de_mujeres_9">
@@ -1077,7 +1077,7 @@ const productos_mujeres = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xxs | azul |<br>$90.000
+                | pantalones | m | morado |<br>$70.000
             </div>
         </div>
     </div>
@@ -1086,7 +1086,7 @@ const productos_ninos = `
     <div class="categorias_por_niños">
         <div class="producto_de_niños_1">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1096,12 +1096,12 @@ const productos_ninos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$56.190
+                | pantalones | l | azul |<br>$100.000
             </div>
         </div>
         <div class="producto_de_niños_2">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1111,12 +1111,12 @@ const productos_ninos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$51.000
+                | pantalones | m | verde |<br>$90.000
             </div>
         </div>
         <div class="producto_de_niños_3">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1126,7 +1126,7 @@ const productos_ninos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$135.000
+                | pantalones | xl | rojo |<br>$85.000
             </div>
         </div>
         <div class="producto_de_niños_4">
@@ -1141,12 +1141,12 @@ const productos_ninos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xxs | azul |<br>$90.000
+                | pantalones | s | amarillo |<br>$80.000
             </div>
         </div>
         <div class="producto_de_niños_5">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1156,12 +1156,12 @@ const productos_ninos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$37.900
+                | pantalones | xs | naranja |<br>$75.000
             </div>
         </div>
         <div class="producto_de_niños_6">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1171,12 +1171,12 @@ const productos_ninos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$123.000
+                | pantalones | xxl | morado |<br>$70.000
             </div>
         </div>
         <div class="producto_de_niños_7">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1186,12 +1186,12 @@ const productos_ninos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$35.100
+                | pantalones | xxs | azul |<br>$60.000
             </div>
         </div>
         <div class="producto_de_niños_8">
             <div class="producto-header">
-                Masomy-s
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1201,12 +1201,12 @@ const productos_ninos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$30.000
+                | pantalones | xxxl | verde |<br>$50.000
             </div>
         </div>
         <div class="producto_de_niños_9">
             <div class="producto-header">
-                Masomy-h
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -1216,7 +1216,7 @@ const productos_ninos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$137.900
+                | pantalones | m | rojo |<br>$40.000
             </div>
         </div>
     </div>
