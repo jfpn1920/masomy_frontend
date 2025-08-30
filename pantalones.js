@@ -9,10 +9,13 @@ document.getElementById('barraBusqueda').addEventListener('keypress', function(e
         }
     }
 });
-//--------------------------//
-//--|funcionalidad_filtro|--//
-//--------------------------//
+//------------------------------------//
+//--|generando_contenido_por_filtro|--//
+//------------------------------------//
 const contenedor = document.getElementById('contenedor-productos');
+//---------------------------//
+//--|contenido_ordenar_por|--//
+//---------------------------//
 const productos_con_precios_altos = `
     <div class="categorias_de_precios_altos">
         <div class="producto_precio_alto1">
@@ -27,7 +30,7 @@ const productos_con_precios_altos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | m | azul |<br>$400.000
+                | pantalon | m | azul |<br>$200.000
             </div>
         </div>
         <div class="producto_precio_alto2">
@@ -42,7 +45,7 @@ const productos_con_precios_altos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xs | azul |<br>$345.000
+                | pantalon | xs | azul |<br>$192.000
             </div>
         </div>
         <div class="producto_precio_alto3">
@@ -57,7 +60,7 @@ const productos_con_precios_altos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | s | azul |<br>$245.000
+                | pantalon | s | azul |<br>$184.000
             </div>
         </div>
         <div class="producto_precio_alto4">
@@ -72,7 +75,7 @@ const productos_con_precios_altos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xxs | azul |<br>$145.000
+                | pantalon | xxs | azul |<br>$177.000
             </div>
         </div>
         <div class="producto_precio_alto5">
@@ -87,7 +90,7 @@ const productos_con_precios_altos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | m | azul |<br>$137.990
+                | pantalon | m | azul |<br>$169.990
             </div>
         </div>
         <div class="producto_precio_alto6">
@@ -102,7 +105,7 @@ const productos_con_precios_altos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xs | azul |<br>$135.000
+                | pantalon | xs | azul |<br>$161.000
             </div>
         </div>
         <div class="producto_precio_alto7">
@@ -117,7 +120,7 @@ const productos_con_precios_altos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | s | azul |<br>$123.000
+                | pantalon | s | azul |<br>$153.000
             </div>
         </div>
         <div class="producto_precio_alto8">
@@ -132,7 +135,7 @@ const productos_con_precios_altos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xxs | azul |<br>$115.000
+                | pantalon | xxs | azul |<br>$145.000
             </div>
         </div>
     </div>
@@ -151,7 +154,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | m | azul |<br>$90.000
+                | pantalon | m | azul |<br>$137.000
             </div>
         </div>
         <div class="producto_precio_bajo2">
@@ -166,7 +169,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xs | azul |<br>$85.500
+                | pantalon | xs | azul |<br>$130.500
             </div>
         </div>
         <div class="producto_precio_bajo3">
@@ -181,7 +184,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | s | azul |<br>$78.100
+                | pantalon | s | azul |<br>$122.100
             </div>
         </div>
         <div class="producto_precio_bajo4">
@@ -196,7 +199,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xxs | azul |<br>$60.999
+                | pantalon | xxs | azul |<br>$114.999
             </div>
         </div>
         <div class="producto_precio_bajo5">
@@ -211,7 +214,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | m | azul |<br>$56.190
+                | pantalon | m | azul |<br>$106.190
             </div>
         </div>
         <div class="producto_precio_bajo6">
@@ -226,7 +229,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xs | azul |<br>$51.000
+                | pantalon | xs | azul |<br>$98.000
             </div>
         </div>
         <div class="producto_precio_bajo7">
@@ -241,7 +244,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | s | azul |<br>$44.990
+                | pantalon | s | azul |<br>$90.990
             </div>
         </div>
         <div class="producto_precio_bajo8">
@@ -256,7 +259,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xxs | azul |<br>$42.000
+                | pantalon | xxs | azul |<br>$83.000
             </div>
         </div>
         <div class="producto_precio_bajo9">
@@ -271,7 +274,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$40.000
+                | camisa casual | xs | azul |<br>$75.000
             </div>
         </div>
         <div class="producto_precio_bajo10">
@@ -286,7 +289,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$39.999
+                | camisa casual | xs | azul |<br>$67.999
             </div>
         </div>
         <div class="producto_precio_bajo11">
@@ -301,7 +304,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$37.900
+                | camisa casual | xs | azul |<br>$59.900
             </div>
         </div>
         <div class="producto_precio_bajo12">
@@ -316,7 +319,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$35.100
+                | camisa casual | xs | azul |<br>$51.100
             </div>
         </div>
         <div class="producto_precio_bajo13">
@@ -331,7 +334,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$30.000
+                | camisa casual | xs | azul |<br>$43.000
             </div>
         </div>
         <div class="producto_precio_bajo14">
@@ -346,7 +349,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$27.180
+                | camisa casual | xs | azul |<br>$36.180
             </div>
         </div>
         <div class="producto_precio_bajo15">
@@ -361,7 +364,7 @@ const productos_con_precios_bajos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$24.000
+                | camisa casual | xs | azul |<br>$28.000
             </div>
         </div>
         <div class="producto_precio_bajo16">
@@ -385,7 +388,7 @@ const productos_mas_vendidos = `
     <div class="categorias_mas_vendidos">
         <div class="producto_mas_vendido1">
             <div class="producto-header">
-                Masomy - v
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -395,12 +398,12 @@ const productos_mas_vendidos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | m | azul |<br>$90.000
+                | pantalon | m | azul |<br>$200.000
             </div>
         </div>
         <div class="producto_mas_vendido2">
             <div class="producto-header">
-                Masomy - v
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -410,12 +413,12 @@ const productos_mas_vendidos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | s | azul |<br>$123.000
+                | pantalon | s | azul |<br>$184.000
             </div>
         </div>
         <div class="producto_mas_vendido3">
             <div class="producto-header">
-                Masomy - v
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -425,12 +428,12 @@ const productos_mas_vendidos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | s | azul |<br>$78.100
+                | pantalon | s | azul |<br>$169.990
             </div>
         </div>
         <div class="producto_mas_vendido4">
             <div class="producto-header">
-                Masomy - v
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -440,12 +443,12 @@ const productos_mas_vendidos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xxs | azul |<br>$115.000
+                | pantalon | xxs | azul |<br>$153.000
             </div>
         </div>
         <div class="producto_mas_vendido5">
             <div class="producto-header">
-                Masomy - v
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -455,12 +458,12 @@ const productos_mas_vendidos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xxs | azul |<br>$60.999
+                | pantalon | xxs | azul |<br>$137.000
             </div>
         </div>
         <div class="producto_precio_alto6">
             <div class="producto-header">
-                Masomy - v
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -470,12 +473,12 @@ const productos_mas_vendidos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon | xxs | azul |<br>$145.000
+                | pantalon | xxs | azul |<br>$122.100
             </div>
         </div>
         <div class="producto_precio_alto7">
             <div class="producto-header">
-                Masomy - v
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -485,12 +488,12 @@ const productos_mas_vendidos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$24.000
+                | camisa casual | xs | azul |<br>$106.190
             </div>
         </div>
         <div class="producto_precio_alto8">
             <div class="producto-header">
-                Masomy - v
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -500,7 +503,7 @@ const productos_mas_vendidos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$20.000
+                | camisa casual | xs | azul |<br>$90.990
             </div>
         </div>
     </div>
@@ -509,7 +512,7 @@ const productos_mas_recientes = `
     <div class="categorias_mas_recientes">
         <div class="producto_mas_reciente1">
             <div class="producto-header">
-                Masomy - r
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -519,12 +522,12 @@ const productos_mas_recientes = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$37.900
+                | camisa casual | xs | azul |<br>$192.000
             </div>
         </div>
         <div class="producto_mas_reciente2">
             <div class="producto-header">
-                Masomy - r
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -534,12 +537,12 @@ const productos_mas_recientes = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$123.000
+                | camisa casual | xs | azul |<br>$177.000
             </div>
         </div>
         <div class="producto_mas_reciente3">
             <div class="producto-header">
-                Masomy - r
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -549,12 +552,12 @@ const productos_mas_recientes = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$35.100
+                | camisa casual | xs | azul |<br>$161.000
             </div>
         </div>
         <div class="producto_mas_reciente4">
             <div class="producto-header">
-                Masomy - r
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -564,12 +567,12 @@ const productos_mas_recientes = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$30.000
+                | camisa casual | xs | azul |<br>$145.000
             </div>
         </div>
         <div class="producto_mas_reciente5">
             <div class="producto-header">
-                Masomy - r
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -579,12 +582,12 @@ const productos_mas_recientes = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$27.180
+                | camisa casual | xs | azul |<br>$130.500
             </div>
         </div>
         <div class="producto_mas_reciente6">
             <div class="producto-header">
-                Masomy - r
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -594,12 +597,12 @@ const productos_mas_recientes = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$24.000
+                | camisa casual | xs | azul |<br>$114.999
             </div>
         </div>
         <div class="producto_mas_reciente7">
             <div class="producto-header">
-                Masomy - r
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -609,12 +612,12 @@ const productos_mas_recientes = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$24.000
+                | camisa casual | xs | azul |<br>$98.000
             </div>
         </div>
         <div class="producto_mas_reciente8">
             <div class="producto-header">
-                Masomy - r
+                Masomy
                 <div>
                     <i class="fas fa-shopping-cart"></i>
                     <i class="fas fa-heart"></i>
@@ -624,7 +627,7 @@ const productos_mas_recientes = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$20.000
+                | camisa casual | xs | azul |<br>$83.000
             </div>
         </div>
     </div>
@@ -643,7 +646,7 @@ const productos_con_descuentos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$137.900
+                | camisa casual | xs | azul |<br>$106.190
             </div>
         </div>
         <div class="producto_mas_descuentos_2">
@@ -658,7 +661,7 @@ const productos_con_descuentos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$51.000
+                | camisa casual | xs | azul |<br>$130.500
             </div>
         </div>
         <div class="producto_mas_descuentos_3">
@@ -673,7 +676,7 @@ const productos_con_descuentos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$44.990
+                | camisa casual | xs | azul |<br>$90.990
             </div>
         </div>
         <div class="producto_mas_descuentos_4">
@@ -688,7 +691,7 @@ const productos_con_descuentos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$40.000
+                | camisa casual | xs | azul |<br>$114.999
             </div>
         </div>
         <div class="producto_mas_descuentos_5">
@@ -703,7 +706,7 @@ const productos_con_descuentos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$37.900
+                | camisa casual | xs | azul |<br>$75.000
             </div>
         </div>
         <div class="producto_mas_descuentos_6">
@@ -718,7 +721,7 @@ const productos_con_descuentos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$35.100
+                | camisa casual | xs | azul |<br>$36.180
             </div>
         </div>
         <div class="producto_mas_descuentos_7">
@@ -733,7 +736,7 @@ const productos_con_descuentos = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | camisa casual | xs | azul |<br>$27.180
+                | camisa casual | xs | azul |<br>$59.900
             </div>
         </div>
         <div class="producto_mas_descuentos_8">
@@ -753,6 +756,9 @@ const productos_con_descuentos = `
         </div>
     </div>
 `;
+//--------------------------//
+//--|contenido_categorias|--//
+//--------------------------//
 const productos_hombres = `
     <div class="categorias_por_hombres">
         <div class="producto_de_hombres_1">
@@ -1553,6 +1559,9 @@ const productos_bebes = `
         </div>
     </div>
 `;
+//----------------------//
+//--|contenido_tallas|--//
+//----------------------//
 const productos_xxs = `
     <div class="categorias_por_talla_xxs">
         <div class="producto_talla_xxs_1">
@@ -2965,7 +2974,9 @@ const productos_xxxl = `
         </div>
     </div>
 `;
-// productos por color
+//---------------------//
+//--|contenido_color|--//
+//---------------------//
 const productos_rojo= `
     <div class="categorias_por_color_rojo">
         <div class="producto_color_rojo_1">
@@ -3985,10 +3996,10 @@ const productos_otros_colores= `
         </div>                    
     </div>
 `;
-//------------------------------//
-//--|mostrar / ocultar extras|--//
-//------------------------------//
-const btnVerMas   = document.getElementById('btn-ver-mas');
+//----------------------------------------------//
+//--|mostrar_y_ocultar_indicadores_y_el_boton|--//
+//----------------------------------------------//
+const btnVerMas = document.getElementById('btn-ver-mas');
 const indicadores = document.getElementById('indicadores');
 function ocultarVerMas() {
     if (btnVerMas) btnVerMas.style.display = 'none';
@@ -3998,20 +4009,20 @@ function mostrarVerMas() {
     if (btnVerMas) btnVerMas.style.display = 'block';
     if (indicadores) indicadores.style.display = 'flex';
 }
-//-------------------------//
-//--|Funciones de Filtros|--//
-//-------------------------//
+//---------------------------------//
+//--|Funcion_filtrar_ordenar_por|--//
+//---------------------------------//
 function aplicarFiltroOrdenPrecio() {
-    const precioAltoEl   = document.getElementById('orden-precio-alto');
-    const precioBajoEl   = document.getElementById('orden-precio-bajo');
-    const masVendidosEl  = document.querySelector('input[value="mas_vendidos"]');
+    const precioAltoEl = document.getElementById('orden-precio-alto');
+    const precioBajoEl = document.getElementById('orden-precio-bajo');
+    const masVendidosEl = document.querySelector('input[value="mas_vendidos"]');
     const masRecientesEl = document.querySelector('input[value="mas_recientes"]');
-    const descuentosEl   = document.querySelector('input[value="descuentos"]');
-    const precioAlto   = !!(precioAltoEl && precioAltoEl.checked);
-    const precioBajo   = !!(precioBajoEl && precioBajoEl.checked);
-    const masVendidos  = !!(masVendidosEl && masVendidosEl.checked);
+    const descuentosEl = document.querySelector('input[value="descuentos"]');
+    const precioAlto = !!(precioAltoEl && precioAltoEl.checked);
+    const precioBajo = !!(precioBajoEl && precioBajoEl.checked);
+    const masVendidos = !!(masVendidosEl && masVendidosEl.checked);
     const masRecientes = !!(masRecientesEl && masRecientesEl.checked);
-    const descuentos   = !!(descuentosEl && descuentosEl.checked);
+    const descuentos = !!(descuentosEl && descuentosEl.checked);
     if (precioAlto) {
         contenedor.innerHTML = productos_con_precios_altos;
         ocultarVerMas();
@@ -4032,12 +4043,15 @@ function aplicarFiltroOrdenPrecio() {
         mostrarVerMas();
     }
 }
+//--------------------------------//
+//--|Funcion_filtrar_categorias|--//
+//--------------------------------//
 function aplicarFiltroCategoria() {
     const catHombres = document.getElementById('cat-hombres');
     const catMujeres = document.getElementById('cat-mujeres');
-    const catNinos   = document.getElementById('cat-ninos');
-    const catNinas   = document.getElementById('cat-ninas');
-    const catBebes   = document.getElementById('cat-bebes');
+    const catNinos = document.getElementById('cat-ninos');
+    const catNinas = document.getElementById('cat-ninas');
+    const catBebes = document.getElementById('cat-bebes');
     if (catHombres && catHombres.checked) {
         contenedor.innerHTML = productos_hombres;
         ocultarVerMas();
@@ -4058,14 +4072,17 @@ function aplicarFiltroCategoria() {
         mostrarVerMas();
     }
 }
+//----------------------------//
+//--|Funcion_filtrar_tallas|--//
+//----------------------------//
 function aplicarFiltroTalla() {
-    const tallaXXS  = document.getElementById('talla-xxs');
-    const tallaXS   = document.getElementById('talla-xs');
-    const tallaS    = document.getElementById('talla-s');
-    const tallaM    = document.getElementById('talla-m');
-    const tallaL    = document.getElementById('talla-l');
-    const tallaXL   = document.getElementById('talla-xl');
-    const tallaXXL  = document.getElementById('talla-xxl');
+    const tallaXXS = document.getElementById('talla-xxs');
+    const tallaXS = document.getElementById('talla-xs');
+    const tallaS = document.getElementById('talla-s');
+    const tallaM = document.getElementById('talla-m');
+    const tallaL = document.getElementById('talla-l');
+    const tallaXL = document.getElementById('talla-xl');
+    const tallaXXL = document.getElementById('talla-xxl');
     const tallaXXXL = document.getElementById('talla-xxxl');
     if (tallaXXS && tallaXXS.checked) {
         contenedor.innerHTML = productos_xxs;
@@ -4096,14 +4113,17 @@ function aplicarFiltroTalla() {
         mostrarVerMas();
     }
 }
+//---------------------------//
+//--|Funcion_filtrar_color|--//
+//---------------------------//
 function aplicarFiltroColor() {
-    const colorRojo     = document.getElementById('color-rojo');
-    const colorNaranja  = document.getElementById('color-naranja');
+    const colorRojo = document.getElementById('color-rojo');
+    const colorNaranja = document.getElementById('color-naranja');
     const colorAmarillo = document.getElementById('color-amarillo');
-    const colorVerde    = document.getElementById('color-verde');
-    const colorAzul     = document.getElementById('color-azul');
-    const colorMorado   = document.getElementById('color-morado');
-    const colorOtros    = document.getElementById('color-otros-colores');
+    const colorVerde = document.getElementById('color-verde');
+    const colorAzul = document.getElementById('color-azul');
+    const colorMorado = document.getElementById('color-morado');
+    const colorOtros = document.getElementById('color-otros-colores');
     if (colorRojo && colorRojo.checked) {
         contenedor.innerHTML = productos_rojo;
         ocultarVerMas();
@@ -4131,63 +4151,71 @@ function aplicarFiltroColor() {
     }
 }
 //-----------------------------//
-//--|Asignación de Eventos|----//
+//--|asignacion_de_eventos|----//
 //-----------------------------//
 document.addEventListener('DOMContentLoaded', () => {
-    // filtros orden
-    const precioAltoEl   = document.getElementById('orden-precio-alto');
-    const precioBajoEl   = document.getElementById('orden-precio-bajo');
-    const masVendidosEl  = document.querySelector('input[value="mas_vendidos"]');
+    //---------------------------//
+    //--|filtro_de_ordenar_por|--//
+    //---------------------------//
+    const precioAltoEl = document.getElementById('orden-precio-alto');
+    const precioBajoEl = document.getElementById('orden-precio-bajo');
+    const masVendidosEl = document.querySelector('input[value="mas_vendidos"]');
     const masRecientesEl = document.querySelector('input[value="mas_recientes"]');
-    const descuentosEl   = document.querySelector('input[value="descuentos"]');
-    if (precioAltoEl)   precioAltoEl.addEventListener('change', aplicarFiltroOrdenPrecio);
-    if (precioBajoEl)   precioBajoEl.addEventListener('change', aplicarFiltroOrdenPrecio);
-    if (masVendidosEl)  masVendidosEl.addEventListener('change', aplicarFiltroOrdenPrecio);
+    const descuentosEl = document.querySelector('input[value="descuentos"]');
+    if (precioAltoEl) precioAltoEl.addEventListener('change', aplicarFiltroOrdenPrecio);
+    if (precioBajoEl) precioBajoEl.addEventListener('change', aplicarFiltroOrdenPrecio);
+    if (masVendidosEl) masVendidosEl.addEventListener('change', aplicarFiltroOrdenPrecio);
     if (masRecientesEl) masRecientesEl.addEventListener('change', aplicarFiltroOrdenPrecio);
-    if (descuentosEl)   descuentosEl.addEventListener('change', aplicarFiltroOrdenPrecio);
-    // filtros categorías
+    if (descuentosEl) descuentosEl.addEventListener('change', aplicarFiltroOrdenPrecio);
+    //--------------------------//
+    //--|filtro_de_categorias|--//
+    //--------------------------//
     const catHombres = document.getElementById('cat-hombres');
     const catMujeres = document.getElementById('cat-mujeres');
-    const catNinos   = document.getElementById('cat-ninos');
-    const catNinas   = document.getElementById('cat-ninas');
-    const catBebes   = document.getElementById('cat-bebes');
+    const catNinos = document.getElementById('cat-ninos');
+    const catNinas = document.getElementById('cat-ninas');
+    const catBebes = document.getElementById('cat-bebes');
     if (catHombres) catHombres.addEventListener('change', aplicarFiltroCategoria);
     if (catMujeres) catMujeres.addEventListener('change', aplicarFiltroCategoria);
-    if (catNinos)   catNinos.addEventListener('change', aplicarFiltroCategoria);
-    if (catNinas)   catNinas.addEventListener('change', aplicarFiltroCategoria);
-    if (catBebes)   catBebes.addEventListener('change', aplicarFiltroCategoria);
-    // filtros tallas
-    const tallaXXS  = document.getElementById('talla-xxs');
-    const tallaXS   = document.getElementById('talla-xs');
-    const tallaS    = document.getElementById('talla-s');
-    const tallaM    = document.getElementById('talla-m');
-    const tallaL    = document.getElementById('talla-l');
-    const tallaXL   = document.getElementById('talla-xl');
-    const tallaXXL  = document.getElementById('talla-xxl');
+    if (catNinos) catNinos.addEventListener('change', aplicarFiltroCategoria);
+    if (catNinas) catNinas.addEventListener('change', aplicarFiltroCategoria);
+    if (catBebes) catBebes.addEventListener('change', aplicarFiltroCategoria);
+    //----------------------//
+    //--|filtro_de_tallas|--//
+    //----------------------//
+    const tallaXXS = document.getElementById('talla-xxs');
+    const tallaXS = document.getElementById('talla-xs');
+    const tallaS = document.getElementById('talla-s');
+    const tallaM = document.getElementById('talla-m');
+    const tallaL = document.getElementById('talla-l');
+    const tallaXL = document.getElementById('talla-xl');
+    const tallaXXL = document.getElementById('talla-xxl');
     const tallaXXXL = document.getElementById('talla-xxxl');
-    if (tallaXXS)  tallaXXS.addEventListener('change', aplicarFiltroTalla);
-    if (tallaXS)   tallaXS.addEventListener('change', aplicarFiltroTalla);
-    if (tallaS)    tallaS.addEventListener('change', aplicarFiltroTalla);
-    if (tallaM)    tallaM.addEventListener('change', aplicarFiltroTalla);
-    if (tallaL)    tallaL.addEventListener('change', aplicarFiltroTalla);
-    if (tallaXL)   tallaXL.addEventListener('change', aplicarFiltroTalla);
-    if (tallaXXL)  tallaXXL.addEventListener('change', aplicarFiltroTalla);
+    if (tallaXXS) tallaXXS.addEventListener('change', aplicarFiltroTalla);
+    if (tallaXS) tallaXS.addEventListener('change', aplicarFiltroTalla);
+    if (tallaS) tallaS.addEventListener('change', aplicarFiltroTalla);
+    if (tallaM) tallaM.addEventListener('change', aplicarFiltroTalla);
+    if (tallaL) tallaL.addEventListener('change', aplicarFiltroTalla);
+    if (tallaXL) tallaXL.addEventListener('change', aplicarFiltroTalla);
+    if (tallaXXL) tallaXXL.addEventListener('change', aplicarFiltroTalla);
     if (tallaXXXL) tallaXXXL.addEventListener('change', aplicarFiltroTalla);
-    // filtros colores
-    const colorRojo     = document.getElementById('color-rojo');
-    const colorNaranja  = document.getElementById('color-naranja');
+    //-----------------------//
+    //--|filtro_de_colores|--//
+    //-----------------------//
+    const colorRojo = document.getElementById('color-rojo');
+    const colorNaranja = document.getElementById('color-naranja');
     const colorAmarillo = document.getElementById('color-amarillo');
-    const colorVerde    = document.getElementById('color-verde');
-    const colorAzul     = document.getElementById('color-azul');
-    const colorMorado   = document.getElementById('color-morado');
-    const colorOtros    = document.getElementById('color-otros-colores');
-    if (colorRojo)     colorRojo.addEventListener('change', aplicarFiltroColor);
-    if (colorNaranja)  colorNaranja.addEventListener('change', aplicarFiltroColor);
+    const colorVerde = document.getElementById('color-verde');
+    const colorAzul = document.getElementById('color-azul');
+    const colorMorado = document.getElementById('color-morado');
+    const colorOtros = document.getElementById('color-otros-colores');
+    if (colorRojo) colorRojo.addEventListener('change', aplicarFiltroColor);
+    if (colorNaranja) colorNaranja.addEventListener('change', aplicarFiltroColor);
     if (colorAmarillo) colorAmarillo.addEventListener('change', aplicarFiltroColor);
-    if (colorVerde)    colorVerde.addEventListener('change', aplicarFiltroColor);
-    if (colorAzul)     colorAzul.addEventListener('change', aplicarFiltroColor);
-    if (colorMorado)   colorMorado.addEventListener('change', aplicarFiltroColor);
-    if (colorOtros)    colorOtros.addEventListener('change', aplicarFiltroColor);
+    if (colorVerde) colorVerde.addEventListener('change', aplicarFiltroColor);
+    if (colorAzul) colorAzul.addEventListener('change', aplicarFiltroColor);
+    if (colorMorado) colorMorado.addEventListener('change', aplicarFiltroColor);
+    if (colorOtros) colorOtros.addEventListener('change', aplicarFiltroColor);
 });
 //---------------------------------//
 //--|funcionalidad_boton_ver_mas|--//
@@ -4455,7 +4483,22 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `;
             contenedor.insertAdjacentHTML('beforeend', productosExtra2);
-        } else {
+        } else if (clickCount === 3) {
+            const productosExtra3 = `
+                <div class="producto">Contenido Extra 3</div>
+            `;
+            contenedor.insertAdjacentHTML('beforeend', productosExtra3);
+        } else if (clickCount === 4) {
+            const productosExtra4 = `
+                <div class="producto">Contenido Extra 4</div>
+            `;
+            contenedor.insertAdjacentHTML('beforeend', productosExtra4);
+        } else if (clickCount === 5) {
+            const productosExtra5 = `
+                <div class="producto">Contenido Extra 5</div>
+            `;
+            contenedor.insertAdjacentHTML('beforeend', productosExtra5);
+            // desactivar el botón
             btnVerMas.textContent = "ver mas";
             btnVerMas.disabled = true;
             btnVerMas.style.backgroundColor = "#999";
