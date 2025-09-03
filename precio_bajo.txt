@@ -1,0 +1,617 @@
+    <div class="categorias_de_precios_altos5">
+        <div class="producto_precio_alto40">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxs | azul |<br>$30.000
+            </div>
+        </div>
+        <div class="producto_precio_alto39">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxs | amarillo |<br>$35.000
+            </div>
+        </div>
+        <div class="producto_precio_alto38">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xs | verde |<br>$40.000
+            </div>
+        </div>
+        <div class="producto_precio_alto37">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxs | azul |<br>$45.000
+            </div>
+        </div>
+        <div class="producto_precio_alto36">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | s | morado |<br>$50.000
+            </div>
+        </div>
+        <div class="producto_precio_alto35">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xs | rojo |<br>$50.000
+            </div>
+        </div>
+        <div class="producto_precio_alto34">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxs | azul |<br>$55.000
+            </div>
+        </div>
+        <div class="producto_precio_alto33">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxs | verde |<br>$60.000
+            </div>
+        </div>
+    </div>
+
+    <div class="categorias_de_precios_altos4">
+        <div class="producto_precio_alto32">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xs | rojo |<br>$60.000
+            </div>
+        </div>
+        <div class="producto_precio_alto31">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | amarillo |<br>$60.000
+            </div>
+        </div>
+        <div class="producto_precio_alto30">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | s | naranja |<br>$65.000
+            </div>
+        </div>
+        <div class="producto_precio_alto29">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | l | rojo |<br>$70.000
+            </div>
+        </div>
+        <div class="producto_precio_alto28">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xs | rojo |<br>$75.000
+            </div>
+        </div>
+        <div class="producto_precio_alto27">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | s | amarillo |<br>$75.000
+            </div>
+        </div>
+        <div class="producto_precio_alto26">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xs | rojo |<br>$80.000
+            </div>
+        </div>
+        <div class="producto_precio_alto25">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | azul |<br>$80.000
+            </div>
+        </div>
+    </div>
+
+
+    <div class="categorias_de_precios_altos3">
+        <div class="producto_precio_alto24">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xl | naranja |<br>$80.000
+            </div>
+        </div>
+        <div class="producto_precio_alto23">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | morado |<br>$90.000
+            </div>
+        </div>
+        <div class="producto_precio_alto22">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxl | verde |<br>$90.000
+            </div>
+        </div>
+        <div class="producto_precio_alto21">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | s | naranja |<br>$95.000
+            </div>
+        </div>
+        <div class="producto_precio_alto20">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | l | verde |<br>$95.000
+            </div>
+        </div>
+        <div class="producto_precio_alto19">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | l | naranja |<br>$105.000
+            </div>
+        </div>
+        <div class="producto_precio_alto18">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | s | morado |<br>$100.000
+            </div>
+        </div>
+        <div class="producto_precio_alto17">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | azul |<br>$100.000
+            </div>
+        </div>
+    </div>
+
+
+    <div class="categorias_de_precios_altos2">
+        <div class="producto_precio_alto16">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xl | amarillo |<br>$110.000
+            </div>
+        </div>
+        <div class="producto_precio_alto15">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | verde |<br>$115.000
+            </div>
+        </div>
+        <div class="producto_precio_alto14">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | azul |<br>$120.000
+            </div>
+        </div>
+        <div class="producto_precio_alto13">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xl | rojo |<br>$120.000
+            </div>
+        </div>
+        <div class="producto_precio_alto12">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxl | rojo |<br>$125.000
+            </div>
+        </div>
+        <div class="producto_precio_alto11">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxl | azul |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_precio_alto10">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | l | amarillo |<br>$135.000
+            </div>
+        </div>
+        <div class="producto_precio_alto9">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | l | verde |<br>$140.000
+            </div>
+        </div>
+    </div>
+
+
+    <div class="categorias_de_precios_altos">
+       <div class="producto_precio_alto8">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | morado |<br>$140.000
+            </div>
+        </div>
+        <div class="producto_precio_alto7">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | verde |<br>$150.000
+            </div>
+        </div>
+        <div class="producto_precio_alto6">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xl | rojo |<br>$155.000
+            </div>
+        </div>
+        <div class="producto_precio_alto5">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xl | amarillo |<br>$160.000
+            </div>
+        </div>
+        <div class="producto_precio_alto4">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxl | morado |<br>$175.000
+            </div>
+        </div>
+        <div class="producto_precio_alto3">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxl | naranja |<br>$180.000
+            </div>
+        </div>
+        <div class="producto_precio_alto2">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | azul |<br>$195.000
+            </div>
+        </div>
+        <div class="producto_precio_alto1">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | rojo |<br>$200.000
+            </div>
+        </div>
+    </div>

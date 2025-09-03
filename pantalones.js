@@ -139,6 +139,12 @@ const productos_con_precios_altos = `
             </div>
         </div>
     </div>
+    <div id="indicadores" class="indicadores">
+        <span class="indicador activo"></span>
+        <span class="indicador"></span>
+        <span class="indicador"></span>
+        <span class="indicador"></span>
+    </div>
     <div id="contenedor-precios-altos"></div>
     <button id="verMasPreciosAltos">Ver más precios altos</button>
 `;
@@ -265,6 +271,14 @@ const productos_con_precios_bajos = `
             </div>
         </div>
     </div>
+    <div id="indicadores-bajos" class="indicadores">
+        <span class="indicador activo"></span>
+        <span class="indicador"></span>
+        <span class="indicador"></span>
+        <span class="indicador"></span>
+    </div>
+    <div id="contenedor-precios-bajos"></div>
+    <button id="verMasPreciosBajos" class="verMasPreciosBajos">Ver más precios bajos</button>
 `;
 const productos_mas_vendidos = `
     <div class="categorias_mas_vendidos">
@@ -3393,22 +3407,268 @@ const bloquesPreciosAltos = [
     </div>
     `,
     `
-    <!-- Precios altos Niñas -->
-    <div class="producto">Pantalón Niña – Talla: M – Verde – 💲90.000</div>
-    <div class="producto">Pantalón Niña – Talla: S – Amarillo – 💲75.000</div>
-    <!-- ... resto de NIÑAS -->
+    <div class="categorias_de_precios_altos4">
+        <div class="producto_precio_alto25">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | azul |<br>$80.000
+            </div>
+        </div>
+        <div class="producto_precio_alto26">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xs | rojo |<br>$80.000
+            </div>
+        </div>
+        <div class="producto_precio_alto27">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | s | amarillo |<br>$75.000
+            </div>
+        </div>
+        <div class="producto_precio_alto28">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xs | rojo |<br>$75.000
+            </div>
+        </div>
+        <div class="producto_precio_alto29">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | l | rojo |<br>$70.000
+            </div>
+        </div>
+        <div class="producto_precio_alto30">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | s | naranja |<br>$65.000
+            </div>
+        </div>
+        <div class="producto_precio_alto31">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | m | amarillo |<br>$60.000
+            </div>
+        </div>
+        <div class="producto_precio_alto32">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xs | rojo |<br>$60.000
+            </div>
+        </div>
+    </div>
     `,
     `
-    <!-- Precios altos Bebés -->
-    <div class="producto">Pantalón Bebé – Talla: XXS – Azul – 💲60.000</div>
-    <div class="producto">Pantalón Bebé – Talla: XS – Verde – 💲40.000</div>
-    <!-- ... resto de BEBÉS -->
+    <div class="categorias_de_precios_altos5">
+        <div class="producto_precio_alto33">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxs | verde |<br>$60.000
+            </div>
+        </div>
+        <div class="producto_precio_alto34">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxs | azul |<br>$55.000
+            </div>
+        </div>
+        <div class="producto_precio_alto35">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xs | rojo |<br>$50.000
+            </div>
+        </div>
+        <div class="producto_precio_alto36">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | s | morado |<br>$50.000
+            </div>
+        </div>
+        <div class="producto_precio_alto37">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxs | azul |<br>$45.000
+            </div>
+        </div>
+        <div class="producto_precio_alto38">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xs | verde |<br>$40.000
+            </div>
+        </div>
+        <div class="producto_precio_alto39">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxs | amarillo |<br>$35.000
+            </div>
+        </div>
+        <div class="producto_precio_alto40">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxs | azul |<br>$30.000
+            </div>
+        </div>
+    </div>
     `
 ];
+//------------------------------------------------//
+//--|bloques_de_precios_bajos_uno_por_categoria|--//
+//------------------------------------------------//
+const bloquesPreciosBajos = [
+    `<div class="producto">Pantalón Hombre Económico - $20</div>`,
+    `<div class="producto">Pantalón Mujer Económico - $25</div>`,
+    `<div class="producto">Pantalón Niño Económico - $15</div>`,
+    `<div class="producto">Pantalón Bebé Económico - $10</div>`
+];
 //------------------------//
-//--|indice_de _control|--//
+//--|indices_de_control|--//
 //------------------------//
 let indiceBloque = -1; 
+let indiceBloqueBajo = -1; 
 //---------------------------------//
 //--|Funcion_filtrar_ordenar_por|--//
 //---------------------------------//
@@ -3424,9 +3684,6 @@ function aplicarFiltroOrdenPrecio() {
     const masRecientes = !!(masRecientesEl && masRecientesEl.checked);
     const descuentos = !!(descuentosEl && descuentosEl.checked);
     if (precioAlto) {
-        //-------------------------------------------------//
-        //--|solo_se_muestra_el_boton_y_contenedor_vacio|--//
-        //-------------------------------------------------//
         contenedor.innerHTML = productos_con_precios_altos;
         const botonVerMas = document.getElementById("verMasPreciosAltos");
         const contenedorAltos = document.getElementById("contenedor-precios-altos");
@@ -3437,11 +3694,24 @@ function aplicarFiltroOrdenPrecio() {
                     indiceBloque = 0;
                 }
                 contenedorAltos.innerHTML = bloquesPreciosAltos[indiceBloque];
+                actualizarIndicadores("indicadores", indiceBloque);
             });
         }
         ocultarVerMas();
     } else if (precioBajo) {
         contenedor.innerHTML = productos_con_precios_bajos;
+        const botonVerMasBajo = document.getElementById("verMasPreciosBajos");
+        const contenedorBajos = document.getElementById("contenedor-precios-bajos");
+        if (botonVerMasBajo) {
+            botonVerMasBajo.addEventListener("click", () => {
+                indiceBloqueBajo++;
+                if (indiceBloqueBajo >= bloquesPreciosBajos.length) {
+                    indiceBloqueBajo = 0;
+                }
+                contenedorBajos.innerHTML = bloquesPreciosBajos[indiceBloqueBajo];
+                actualizarIndicadores("indicadores-bajos", indiceBloqueBajo);
+            });
+        }
         ocultarVerMas();
     } else if (masVendidos) {
         contenedor.innerHTML = productos_mas_vendidos;
@@ -3455,6 +3725,18 @@ function aplicarFiltroOrdenPrecio() {
     } else {
         contenedor.innerHTML = '';
         mostrarVerMas();
+    }
+}
+//-------------------------//
+//--|ActualizarIndicadores|--//
+//-------------------------//
+function actualizarIndicadores(idContenedor, indiceActivo) {
+    const cont = document.getElementById(idContenedor);
+    if (cont) {
+        const spans = cont.querySelectorAll(".indicador");
+        spans.forEach((span, idx) => {
+            span.classList.toggle("activo", idx === indiceActivo);
+        });
     }
 }
 //--------------------------------//
