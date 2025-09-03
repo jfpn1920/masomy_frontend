@@ -190,6 +190,9 @@ input[type="range"] {
     font-size: 14px;
     text-align: center;
 }
+/*---------------------------------------*/
+/*--|estilo_base_contenido_precio_alto|--*/
+/*---------------------------------------*/
 .categorias_de_precios_altos{
     margin-top: -814px;
     margin-left: 277px;
@@ -298,6 +301,10 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
+.categorias_de_precios_altos2{
+    margin-top: -814px;
+    margin-left: 277px;
+}
 .producto_precio_alto9 {
     width: 260px;
     height: auto;
@@ -401,6 +408,10 @@ input[type="range"] {
     flex-direction: column;
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_de_precios_altos3{
+    margin-top: -814px;
+    margin-left: 277px;
 }
 .producto_precio_alto17 {
     width: 260px;
@@ -714,165 +725,9 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_alto41 {
-    width: 260px;
-    height: auto;
-    margin-left: -1px;
-    margin-top: 10px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-.producto_precio_alto42 {
-    width: 260px;
-    height: auto;
-    margin-left: 269px;
-    margin-top: -397px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-.producto_precio_alto43 {
-    width: 260px;
-    height: auto;
-    margin-left: 539px;
-    margin-top: -397px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-.producto_precio_alto44 {
-    width: 260px;
-    height: auto;
-    margin-left: 809px;
-    margin-top: -397px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-.producto_precio_alto45 {
-    width: 260px;
-    height: auto;
-    margin-left: -2px;
-    margin-top: 10px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-.producto_precio_alto46 {
-    width: 260px;
-    height: auto;
-    margin-left: 269px;
-    margin-top: -397px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-.producto_precio_alto47 {
-    width: 260px;
-    height: auto;
-    margin-left: 539px;
-    margin-top: -397px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-.producto_precio_alto48 {
-    width: 260px;
-    height: auto;
-    margin-left: 809px;
-    margin-top: -397px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-.producto_precio_alto49 {
-    width: 260px;
-    height: auto;
-    margin-left: -1px;
-    margin-top: 10px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-.producto_precio_alto50 {
-    width: 260px;
-    height: auto;
-    margin-left: 269px;
-    margin-top: -397px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-.producto_precio_alto51 {
-    width: 260px;
-    height: auto;
-    margin-left: 539px;
-    margin-top: -397px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-.producto_precio_alto52 {
-    width: 260px;
-    height: auto;
-    margin-left: 809px;
-    margin-top: -397px;
-    background-color: #e9eddb;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    animation: fadeInScale 0.6s ease-in-out;
-}
-/*-------------------------------*/
-/*--|estilo_base_precios_bajos|--*/
-/*-------------------------------*/
+/*---------------------------------------*/
+/*--|estilo_base_contenido_precio_bajo|--*/
+/*---------------------------------------*/
 .categorias_de_precios_bajos{
     margin-top: -814px;
     margin-left: 277px;

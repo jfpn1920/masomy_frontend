@@ -1,0 +1,87 @@
+#----#---------------------#-------#----------#--------------#
+| nº | nombre del pantalon | talla | color    | Precio       |
+#----# --------------------#-------#----------#--------------#
+| 01 | pantalon            | XXXL  | Rojo     | <br>$200.000 |
+| 02 | pantalon            | XXL   | Naranja  | <br>$180.000 |
+| 03 | pantalon            | XL    | Amarillo | <br>$160.000 |
+| 04 | pantalon            | L     | Verde    | <br>$140.000 |
+| 05 | pantalon            | M     | Azul     | <br>$120.000 |
+| 06 | pantalon            | S     | Morado   | <br>$100.000 |
+| 07 | pantalon            | XS    | Rojo     | <br>$80.000  |
+| 08 | pantalon            | XXS   | Verde    | <br>$60.000  |
+#----# --------------------#-------#----------#--------------#
+| 09 | pantalon            | XXXL  | Azul     | <br>$.000 |
+| 10 | pantalon            | XXL   | Morado   | <br>$.000 |
+| 11 | pantalon            | XL    | Rojo     | <br>$.000 |
+| 12 | pantalon            | L     | Amarillo | <br>$.000 |
+| 13 | pantalon            | M     | Verde    | <br>$.000 |
+| 14 | pantalon            | S     | Naranja  | <br>$.000 |
+| 15 | pantalon            | XS    | Rojo     | <br>$.000  |
+| 16 | pantalon            | XXS   | Azul     | <br>$.000  |
+#----# --------------------#-------#----------#--------------#
+
+
+
+Pantalón – Talla:  –  – 💲195.000
+
+Pantalón – Talla:  –  – 💲175.000
+
+Pantalón – Talla:  –  – 💲155.000
+
+Pantalón – Talla:  –  – 💲135.000
+
+Pantalón – Talla:  –  – 💲115.000
+
+Pantalón – Talla:  –  – 💲95.000
+
+Pantalón – Talla:  –  – 💲75.000
+
+Pantalón – Talla:  –  – 💲55.000
+
+Pantalón – Talla: XXXL – Verde – 💲150.000
+
+Pantalón – Talla: XXL – Azul – 💲135.000
+
+Pantalón – Talla: XL – Rojo – 💲120.000
+
+Pantalón – Talla: L – Naranja – 💲105.000
+
+Pantalón – Talla: M – Morado – 💲90.000
+
+Pantalón – Talla: S – Amarillo – 💲75.000
+
+Pantalón – Talla: XS – Rojo – 💲60.000
+
+Pantalón – Talla: XXS – Azul – 💲45.000
+
+Pantalón – Talla: XXXL – Morado – 💲140.000
+
+Pantalón – Talla: XXL – Rojo – 💲125.000
+
+Pantalón – Talla: XL – Amarillo – 💲110.000
+
+Pantalón – Talla: L – Verde – 💲95.000
+
+Pantalón – Talla: M – Azul – 💲80.000
+
+Pantalón – Talla: S – Naranja – 💲65.000
+
+Pantalón – Talla: XS – Rojo – 💲50.000
+
+Pantalón – Talla: XXS – Amarillo – 💲35.000
+
+Pantalón – Talla: XXXL – Azul – 💲100.000
+
+Pantalón – Talla: XXL – Verde – 💲90.000
+
+Pantalón – Talla: XL – Naranja – 💲80.000
+
+Pantalón – Talla: L – Rojo – 💲70.000
+
+Pantalón – Talla: M – Amarillo – 💲60.000
+
+Pantalón – Talla: S – Morado – 💲50.000
+
+Pantalón – Talla: XS – Verde – 💲40.000
+
+Pantalón – Talla: XXS – Azul – 💲30.000

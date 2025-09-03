@@ -1,56 +1,48 @@
-#----#---------------------#-------#----------#--------------#---------------#
-| nº | nombre del pantalon | talla | color    | Precio       | genero hombre |
-#----# --------------------#-------#----------#--------------#---------------#
-| 01 | pantalon            | xxxl  | rojo     | <br>$200.000 | hombre        |
-| 02 | pantalon            | xxl   | naranja  | <br>$180.000 | hombre        |
-| 03 | pantalon            | xl    | amarillo | <br>$160.000 | hombre        |
-| 04 | pantalon            | l     | verde    | <br>$140.000 | hombre        |
-| 05 | pantalon            | m     | azul     | <br>$120.000 | hombre        |
-| 06 | pantalon            | s     | morado   | <br>$100.000 | hombre        |
-| 07 | pantalon            | xs    | rojo     | <br>$80.000  | hombre        |
-| 08 | pantalon            | xxs   | verde    | <br>$60.000  | hombre        |
-#----# --------------------#-------#----------#--------------#---------------#
-| nº | nombre del pantalon | talla | color    | Precio       | genero mujer  |
-#----# --------------------#-------#----------#--------------#---------------#
-| 01 | pantalon            | xxxl  | azul     | <br>$195.000 | mujer         |
-| 02 | pantalon            | xxl   | morado   | <br>$175.000 | mujer         |
-| 03 | pantalon            | xl    | rojo     | <br>$155.000 | mujer         |
-| 04 | pantalon            | l     | amarillo | <br>$135.000 | mujer         |
-| 05 | pantalon            | m     | verde    | <br>$115.000 | mujer         |
-| 06 | pantalon            | s     | naranja  | <br>$95.000  | mujer         |
-| 07 | pantalon            | xs    | rojo     | <br>$75.000  | mujer         |
-| 08 | pantalon            | xxs   | azul     | <br>$55.000  | mujer         |
-#----# --------------------#-------#----------#--------------#---------------#
-| nº | nombre del pantalon | talla | color    | Precio       | genero niños  |
-#----# --------------------#-------#----------#--------------#---------------#
-| 01 | pantalon            | xxxl  | verde    | <br>$150.000 | niños         |
-| 02 | pantalon            | xxl   | azul     | <br>$135.000 | niños         |
-| 03 | pantalon            | xl    | rojo     | <br>$120.000 | niños         |
-| 04 | pantalon            | l     | naranja  | <br>$105.000 | niños         |
-| 05 | pantalon            | m     | morado   | <br>$90.000  | niños         |
-| 06 | pantalon            | s     | amarillo | <br>$75.000  | niños         |
-| 07 | pantalon            | xs    | rojo     | <br>$60.000  | niños         |
-| 08 | pantalon            | xxs   | azul     | <br>$45.000  | niños         |
-#----# --------------------#-------#----------#--------------#---------------#
-| nº | nombre del pantalon | talla | color    | Precio       | genero niñas  |
-#----# --------------------#-------#----------#--------------#---------------#
-| 01 | pantalon            | xxxl  | morado   | <br>$140.000 | niñas         |
-| 02 | pantalon            | xxl   | rojo     | <br>$125.000 | niñas         |
-| 03 | pantalon            | xl    | amarillo | <br>$110.000 | niñas         |
-| 04 | pantalon            | l     | verde    | <br>$95.000  | niñas         |
-| 05 | pantalon            | m     | azul     | <br>$80.000  | niñas         |
-| 06 | pantalon            | s     | naranja  | <br>$65.000  | niñas         |
-| 07 | pantalon            | xs    | rojo     | <br>$50.000  | niñas         |
-| 08 | pantalon            | xxs   | amarillo | <br>$35.000  | niñas         |
-#----# --------------------#-------#----------#--------------#---------------#
-| nº | nombre del pantalon | talla | color    | Precio       | genero bebes  |
-#----# --------------------#-------#----------#--------------#---------------#
-| 01 | pantalon            | xxxl  | azul     | <br>$100.000 | bebes         |
-| 02 | pantalon            | xxl   | verde    | <br>$90.000  | bebes         |
-| 03 | pantalon            | xl    | naranja  | <br>$80.000  | bebes         |
-| 04 | pantalon            | l     | rojo     | <br>$70.000  | bebes         |
-| 05 | pantalon            | m     | amarillo | <br>$60.000  | bebes         |
-| 06 | pantalon            | s     | morado   | <br>$50.000  | bebes         |
-| 07 | pantalon            | xs    | verde    | <br>$40.000  | bebes         |
-| 08 | pantalon            | xxs   | azul     | <br>$30.000  | bebes         |
-#----# --------------------#-------#----------#--------------#---------------#
+#----#---------------------#-------#----------#--------------#---------#
+| nº | nombre del pantalon | talla | color    | Precio       | genero  |
+#----# --------------------#-------#----------#--------------#---------#
+| 01 | pantalon            | xxxl  | rojo     | <br>$200.000 | Hombre  |
+| 02 | pantalon            | xxxl  | azul     | <br>$195.000 | Mujer   |
+| 03 | pantalon            | xxl   | naranja  | <br>$180.000 | Hombre  |
+| 04 | pantalon            | xxl   | morado   | <br>$175.000 | Mujer   |
+| 07 | pantalon            | xl    | amarillo | <br>$160.000 | Hombre  |
+| 05 | pantalon            | xl    | rojo     | <br>$155.000 | Mujer   |
+| 06 | pantalon            | xxxl  | verde    | <br>$150.000 | Niños   |
+| 08 | pantalon            | xxxl  | morado   | <br>$140.000 | Niñas   |
+#----# --------------------#-------#----------#--------------#---------#
+| 09 | pantalon            | l     | verde    | <br>$140.000 | Hombre  |
+| 10 | pantalon            | l     | amarillo | <br>$135.000 | Mujer   |
+| 11 | pantalon            | xxl   | azul     | <br>$135.000 | Niños   |
+| 12 | pantalon            | xxl   | rojo     | <br>$125.000 | Niñas   |
+| 13 | pantalon            | xl    | rojo     | <br>$120.000 | Niños   |
+| 14 | pantalon            | m     | azul     | <br>$120.000 | Hombre  |
+| 15 | pantalon            | m     | verde    | <br>$115.000 | Mujer   |
+| 16 | pantalon            | xl    | amarillo | <br>$110.000 | Niñas   |
+#----# --------------------#-------#----------#--------------#---------#
+| 17 | pantalon            | xxxl  | azul     | <br>$100.000 | Bebés   |
+| 18 | pantalon            | s     | morado   | <br>$100.000 | Hombre  |
+| 19 | pantalon            | l     | naranja  | <br>$105.000 | Niños   |
+| 20 | pantalon            | l     | verde    | <br>$95.000  | Niñas   |
+| 21 | pantalon            | s     | naranja  | <br>$95.000  | Mujer   |
+| 22 | pantalon            | xxl   | verde    | <br>$90.000  | Bebés   |
+| 23 | pantalon            | m     | morado   | <br>$90.000  | Niños   |
+| 24 | pantalon            | xl    | naranja  | <br>$80.000  | Bebés   |
+#----# --------------------#-------#----------#--------------#---------#
+| 25 | pantalon            | m     | azul     | <br>$80.000  | Niñas   |
+| 26 | pantalon            | xs    | rojo     | <br>$80.000  | Hombre  |
+| 27 | pantalon            | s     | amarillo | <br>$75.000  | Niños   |
+| 28 | pantalon            | xs    | rojo     | <br>$75.000  | Mujer   |
+| 29 | pantalon            | l     | rojo     | <br>$70.000  | Bebés   |
+| 30 | pantalon            | s     | naranja  | <br>$65.000  | Niñas   |
+| 31 | pantalon            | m     | amarillo | <br>$60.000  | Bebés   |
+| 32 | pantalon            | xs    | rojo     | <br>$60.000  | Niños   |
+#----# --------------------#-------#----------#--------------#---------#
+| 33 | pantalon            | xxs   | verde    | <br>$60.000  | Hombre  |
+| 34 | pantalon            | xxs   | azul     | <br>$55.000  | Mujer   |
+| 35 | pantalon            | xs    | rojo     | <br>$50.000  | Niñas   |
+| 36 | pantalon            | s     | morado   | <br>$50.000  | Bebés   |
+| 37 | pantalon            | xxs   | azul     | <br>$45.000  | Niños   |
+| 38 | pantalon            | xs    | verde    | <br>$40.000  | Bebés   |
+| 39 | pantalon            | xxs   | amarillo | <br>$35.000  | Niñas   |
+| 40 | pantalon            | xxs   | azul     | <br>$30.000  | Bebés   |
+#----# --------------------#-------#----------#--------------#---------#
