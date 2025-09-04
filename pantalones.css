@@ -778,10 +778,10 @@ input[type="range"] {
 /*--|estilo_base_contenido_precio_bajo|--*/
 /*---------------------------------------*/
 .categorias_de_precios_bajos{
-    margin-top: -814px;
+    margin-top: -813px;
     margin-left: 277px;
 }
-.producto_precio_bajo1 {
+.producto_precio_bajos1 {
     width: 260px;
     height: auto;
     margin-left: -1px;
@@ -794,7 +794,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo2 {
+.producto_precio_bajos2 {
     width: 260px;
     height: auto;
     margin-left: 269px;
@@ -807,7 +807,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo3 {
+.producto_precio_bajos3 {
     width: 260px;
     height: auto;
     margin-left: 539px;
@@ -820,7 +820,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo4 {
+.producto_precio_bajos4 {
     width: 260px;
     height: auto;
     margin-left: 809px;
@@ -833,7 +833,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo5 {
+.producto_precio_bajos5 {
     width: 260px;
     height: auto;
     margin-left: -2px;
@@ -846,7 +846,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo6 {
+.producto_precio_bajos6 {
     width: 260px;
     height: auto;
     margin-left: 269px;
@@ -859,7 +859,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo7 {
+.producto_precio_bajos7 {
     width: 260px;
     height: auto;
     margin-left: 539px;
@@ -872,7 +872,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo8 {
+.producto_precio_bajos8 {
     width: 260px;
     height: auto;
     margin-left: 809px;
@@ -885,7 +885,11 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo9 {
+.categorias_de_precios_bajo2{
+    margin-top: -840px;
+    margin-left: 277px;
+}
+.producto_precio_bajos9 {
     width: 260px;
     height: auto;
     margin-left: -1px;
@@ -898,7 +902,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo10 {
+.producto_precio_bajos10 {
     width: 260px;
     height: auto;
     margin-left: 269px;
@@ -911,7 +915,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo11 {
+.producto_precio_bajos11 {
     width: 260px;
     height: auto;
     margin-left: 539px;
@@ -924,7 +928,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo12 {
+.producto_precio_bajos12 {
     width: 260px;
     height: auto;
     margin-left: 809px;
@@ -937,7 +941,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo13 {
+.producto_precio_bajos13 {
     width: 260px;
     height: auto;
     margin-left: -2px;
@@ -950,7 +954,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo14 {
+.producto_precio_bajos14 {
     width: 260px;
     height: auto;
     margin-left: 269px;
@@ -963,7 +967,7 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo15 {
+.producto_precio_bajos15 {
     width: 260px;
     height: auto;
     margin-left: 539px;
@@ -976,7 +980,331 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
-.producto_precio_bajo16 {
+.producto_precio_bajos16 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_de_precios_bajo3{
+    margin-top: -840px;
+    margin-left: 277px;
+}
+.producto_precio_bajos17 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos18 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos19 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos20 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos21 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos22 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos23 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos24 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_de_precios_bajo4{
+    margin-top: -840px;
+    margin-left: 277px;
+}
+.producto_precio_bajos25 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos26 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos27 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos28 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos29 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos30 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos31 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos32 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.categorias_de_precios_bajo5{
+    margin-top: -840px;
+    margin-left: 277px;
+}
+.producto_precio_bajos33 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos34 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos35 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos36 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos37 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos38 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos39 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_precio_bajos40 {
     width: 260px;
     height: auto;
     margin-left: 809px;
@@ -1094,8 +1422,8 @@ input[type="range"] {
 .producto_mas_vendido7 {
     width: 260px;
     height: auto;
-    margin-left: -2px;
-    margin-top: 10px;
+    margin-left: 539px;
+    margin-top: -397px;
     background-color: #e9eddb;
     border-radius: 5px;
     overflow: hidden;
@@ -1107,7 +1435,7 @@ input[type="range"] {
 .producto_mas_vendido8 {
     width: 260px;
     height: auto;
-    margin-left: 269px;
+    margin-left: 809px;
     margin-top: -397px;
     background-color: #e9eddb;
     border-radius: 5px;
@@ -1117,6 +1445,9 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
+/*-----------------------------------------*/
+/*--|estilo_base_contenido_mas_recientes|--*/
+/*-----------------------------------------*/
 .categorias_mas_recientes{
     margin-top: -814px;
     margin-left: 277px;
@@ -1225,6 +1556,158 @@ input[type="range"] {
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
 }
+.categorias_mas_recientes2{
+    margin-top: -840px;
+    margin-left: 277px;
+}
+.producto_mas_reciente9 {
+    width: 260px;
+    height: auto;
+    margin-left: -1px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_reciente10 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_reciente11 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_reciente12 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_reciente13 {
+    width: 260px;
+    height: auto;
+    margin-left: -2px;
+    margin-top: 10px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_reciente14 {
+    width: 260px;
+    height: auto;
+    margin-left: 269px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_reciente15 {
+    width: 260px;
+    height: auto;
+    margin-left: 539px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.producto_mas_reciente16 {
+    width: 260px;
+    height: auto;
+    margin-left: 809px;
+    margin-top: -397px;
+    background-color: #e9eddb;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    animation: fadeInScale 0.6s ease-in-out;
+}
+.indicadores {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-left: 196px;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+}
+.indicador {
+    padding: 8px 14px;
+    border-radius: 5px;
+    background-color: #eee;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+.indicador:hover {
+    background-color: #ddd;
+}
+.indicador.activo {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+#verMasmasRecientes {
+    display: block;
+    margin-top: 35px;
+    margin-left: 722px;
+    padding: 10px 18px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: background-color 0.3s ease;
+}
+#verMasmasRecientes:hover {
+    background-color: #218838;
+}
+/*------------------------------------------*/
+/*--|estilo_base_contenido_mas_descuentos|--*/
+/*------------------------------------------*/
 .categorias_mas_descuentos{
     margin-top: -814px;
     margin-left: 277px;
