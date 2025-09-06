@@ -1670,7 +1670,7 @@ const productos_m = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | azul |<br>$120.000
             </div>
         </div>
         <div class="producto_talla_m_2">
@@ -1685,7 +1685,7 @@ const productos_m = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | verde |<br>$115.000
             </div>
         </div>
         <div class="producto_talla_m_3">
@@ -1700,7 +1700,7 @@ const productos_m = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | morado |<br>$90.000
             </div>
         </div>
         <div class="producto_talla_m_4">
@@ -1715,7 +1715,7 @@ const productos_m = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | azul |<br>$80.000
             </div>
         </div>
         <div class="producto_talla_m_5">
@@ -1730,7 +1730,7 @@ const productos_m = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | amarillo |<br>$60.000
             </div>
         </div>
         <div class="producto_talla_m_6">
@@ -1745,7 +1745,7 @@ const productos_m = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xs | rojo |<br>$50.000
             </div>
         </div>
         <div class="producto_talla_m_7">
@@ -1760,7 +1760,7 @@ const productos_m = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxs | azul |<br>$55.000
             </div>
         </div>
         <div class="producto_talla_m_8">
@@ -1775,7 +1775,7 @@ const productos_m = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxs | verde |<br>$60.000
             </div>
         </div>
     </div>
@@ -1794,7 +1794,7 @@ const productos_l = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | l | verde |<br>$140.000
             </div>
         </div>
         <div class="producto_talla_l_2">
@@ -1809,7 +1809,7 @@ const productos_l = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | l | amarillo |<br>$135.000
             </div>
         </div>
         <div class="producto_talla_l_3">
@@ -1824,7 +1824,7 @@ const productos_l = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | l | naranja |<br>$105.000
             </div>
         </div>
         <div class="producto_talla_l_4">
@@ -1839,7 +1839,7 @@ const productos_l = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | l | verde |<br>$95.000
             </div>
         </div>
         <div class="producto_talla_l_5">
@@ -1854,7 +1854,7 @@ const productos_l = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | l | rojo |<br>$70.000
             </div>
         </div>
         <div class="producto_talla_l_6">
@@ -1869,7 +1869,7 @@ const productos_l = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xs | rojo |<br>$60.000
             </div>
         </div>
         <div class="producto_talla_l_7">
@@ -1884,7 +1884,7 @@ const productos_l = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | amarillo |<br>$60.000
             </div>
         </div>
         <div class="producto_talla_l_8">
@@ -1899,7 +1899,7 @@ const productos_l = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | s | naranja |<br>$65.000
             </div>
         </div>                    
     </div>
@@ -1918,7 +1918,7 @@ const productos_xl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | amarillo |<br>$160.000
             </div>
         </div>
         <div class="producto_talla_xl_2">
@@ -1933,7 +1933,7 @@ const productos_xl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | rojo |<br>$155.000
             </div>
         </div>
         <div class="producto_talla_xl_3">
@@ -1948,7 +1948,7 @@ const productos_xl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | rojo |<br>$120.000
             </div>
         </div>
         <div class="producto_talla_xl_4">
@@ -1963,7 +1963,7 @@ const productos_xl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | amarillo |<br>$110.000
             </div>
         </div>
         <div class="producto_talla_xl_5">
@@ -1978,7 +1978,7 @@ const productos_xl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | naranja |<br>$80.000
             </div>
         </div>
         <div class="producto_talla_xl_6">
@@ -1993,7 +1993,7 @@ const productos_xl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | azul |<br>$80.000
             </div>
         </div>
         <div class="producto_talla_xl_7">
@@ -2008,7 +2008,7 @@ const productos_xl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xs | rojo |<br>$80.000
             </div>
         </div>
         <div class="producto_talla_xl_8">
@@ -2023,7 +2023,7 @@ const productos_xl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | s | amarillo |<br>$75.000
             </div>
         </div>                    
     </div>
@@ -2042,7 +2042,7 @@ const productos_xxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxl | naranja |<br>$180.000
             </div>
         </div>
         <div class="producto_talla_xxl_2">
@@ -2057,7 +2057,7 @@ const productos_xxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxl | morado |<br>$175.000
             </div>
         </div>
         <div class="producto_talla_xxl_3">
@@ -2072,7 +2072,7 @@ const productos_xxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxl | azul |<br>$135.000
             </div>
         </div>
         <div class="producto_talla_xxl_4">
@@ -2087,7 +2087,7 @@ const productos_xxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxl | rojo |<br>$125.000
             </div>
         </div>
         <div class="producto_talla_xxl_5">
@@ -2102,7 +2102,7 @@ const productos_xxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxl | verde |<br>$90.000
             </div>
         </div>
         <div class="producto_talla_xxl_6">
@@ -2117,7 +2117,7 @@ const productos_xxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | s | amarillo |<br>$75.000
             </div>
         </div>
         <div class="producto_talla_xxl_7">
@@ -2132,7 +2132,7 @@ const productos_xxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xs | rojo |<br>$80.000
             </div>
         </div>
         <div class="producto_talla_xxl_8">
@@ -2147,7 +2147,7 @@ const productos_xxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | azul |<br>$80.000
             </div>
         </div>
     </div>
@@ -2166,7 +2166,7 @@ const productos_xxxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | rojo |<br>$200.000
             </div>
         </div>
         <div class="producto_talla_xxxl_2">
@@ -2181,7 +2181,7 @@ const productos_xxxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | azul |<br>$195.000
             </div>
         </div>
         <div class="producto_talla_xxxl_3">
@@ -2196,7 +2196,7 @@ const productos_xxxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | verde |<br>$150.000
             </div>
         </div>
         <div class="producto_talla_xxxl_4">
@@ -2211,7 +2211,7 @@ const productos_xxxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | morado |<br>$140.000
             </div>
         </div>
         <div class="producto_talla_xxxl_5">
@@ -2226,7 +2226,7 @@ const productos_xxxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | azul |<br>$100.000
             </div>
         </div>
         <div class="producto_talla_xxxl_6">
@@ -2241,7 +2241,7 @@ const productos_xxxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xs | rojo |<br>$80.000
             </div>
         </div>
         <div class="producto_talla_xxxl_7">
@@ -2256,7 +2256,7 @@ const productos_xxxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | s | amarillo |<br>$75.000
             </div>
         </div>
         <div class="producto_talla_xxxl_8">
@@ -2271,7 +2271,7 @@ const productos_xxxl = `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | azul |<br>$80.000
             </div>
         </div>
     </div>
@@ -2293,7 +2293,7 @@ const productos_rojo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | rojo |<br>$200.000
             </div>
         </div>
         <div class="producto_color_rojo_2">
@@ -2308,7 +2308,7 @@ const productos_rojo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | rojo |<br>$155.000
             </div>
         </div>
         <div class="producto_color_rojo_3">
@@ -2323,7 +2323,7 @@ const productos_rojo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxl | rojo |<br>$125.000
             </div>
         </div>
         <div class="producto_color_rojo_4">
@@ -2338,7 +2338,7 @@ const productos_rojo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | rojo |<br>$120.000
             </div>
         </div>
         <div class="producto_color_rojo_5">
@@ -2353,7 +2353,7 @@ const productos_rojo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xs | rojo |<br>$80.000
             </div>
         </div>
         <div class="producto_color_rojo_6">
@@ -2368,7 +2368,7 @@ const productos_rojo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xs | rojo |<br>$75.000
             </div>
         </div>
         <div class="producto_color_rojo_7">
@@ -2383,7 +2383,7 @@ const productos_rojo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | l | rojo |<br>$70.000
             </div>
         </div>
         <div class="producto_color_rojo_8">
@@ -2398,7 +2398,7 @@ const productos_rojo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xs | rojo |<br>$60.000
             </div>
         </div>
     </div>
@@ -2417,7 +2417,7 @@ const productos_naranja= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxl | naranja |<br>$180.000
             </div>
         </div>
         <div class="producto_color_naranja_2">
@@ -2432,7 +2432,7 @@ const productos_naranja= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | l | naranja |<br>$105.000
             </div>
         </div>
         <div class="producto_color_naranja_3">
@@ -2447,7 +2447,7 @@ const productos_naranja= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | s | naranja |<br>$95.000
             </div>
         </div>
         <div class="producto_color_naranja_4">
@@ -2462,7 +2462,7 @@ const productos_naranja= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | naranja |<br>$80.000
             </div>
         </div>
         <div class="producto_color_naranja_5">
@@ -2477,7 +2477,7 @@ const productos_naranja= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | s | naranja |<br>$65.000
             </div>
         </div>
         <div class="producto_color_naranja_6">
@@ -2541,7 +2541,7 @@ const productos_amarillo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | amarillo |<br>$160.000
             </div>
         </div>
         <div class="producto_color_amarillo_2">
@@ -2556,7 +2556,7 @@ const productos_amarillo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | l | amarillo |<br>$135.000
             </div>
         </div>
         <div class="producto_color_amarillo_3">
@@ -2571,7 +2571,7 @@ const productos_amarillo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | amarillo |<br>$110.000
             </div>
         </div>
         <div class="producto_color_amarillo_4">
@@ -2586,7 +2586,7 @@ const productos_amarillo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | s | amarillo |<br>$75.000
             </div>
         </div>
         <div class="producto_color_amarillo_5">
@@ -2601,7 +2601,7 @@ const productos_amarillo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | amarillo |<br>$60.000
             </div>
         </div>
         <div class="producto_color_amarillo_6">
@@ -2616,7 +2616,7 @@ const productos_amarillo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxs | amarillo |<br>$35.000
             </div>
         </div>
         <div class="producto_color_amarillo_7">
@@ -2665,7 +2665,7 @@ const productos_verde= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | verde |<br>$150.000
             </div>
         </div>
         <div class="producto_color_verde_2">
@@ -2680,7 +2680,7 @@ const productos_verde= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | l | verde |<br>$140.000
             </div>
         </div>
         <div class="producto_color_verde_3">
@@ -2695,7 +2695,7 @@ const productos_verde= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | verde |<br>$115.000
             </div>
         </div>
         <div class="producto_color_verde_4">
@@ -2710,7 +2710,7 @@ const productos_verde= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | l | verde |<br>$95.000
             </div>
         </div>
         <div class="producto_color_verde_5">
@@ -2725,7 +2725,7 @@ const productos_verde= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxl | verde |<br>$90.000
             </div>
         </div>
         <div class="producto_color_verde_6">
@@ -2740,7 +2740,7 @@ const productos_verde= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxs | verde |<br>$60.000
             </div>
         </div>
         <div class="producto_color_verde_7">
@@ -2755,7 +2755,7 @@ const productos_verde= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xs | verde |<br>$40.000
             </div>
         </div>
         <div class="producto_color_verde_8">
@@ -2789,7 +2789,7 @@ const productos_azul= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | azul |<br>$195.000
             </div>
         </div>
         <div class="producto_color_azul_2">
@@ -2804,7 +2804,7 @@ const productos_azul= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxl | azul |<br>$135.000
             </div>
         </div>
         <div class="producto_color_azul_3">
@@ -2819,7 +2819,7 @@ const productos_azul= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | azul |<br>$120.000
             </div>
         </div>
         <div class="producto_color_azul_4">
@@ -2834,7 +2834,7 @@ const productos_azul= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | azul |<br>$100.000
             </div>
         </div>
         <div class="producto_color_azul_5">
@@ -2849,7 +2849,7 @@ const productos_azul= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | azul |<br>$80.000
             </div>
         </div>
         <div class="producto_color_azul_6">
@@ -2864,7 +2864,7 @@ const productos_azul= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxs | azul |<br>$55.000
             </div>
         </div>
         <div class="producto_color_azul_7">
@@ -2879,7 +2879,7 @@ const productos_azul= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxs | azul |<br>$45.000
             </div>
         </div>
         <div class="producto_color_azul_8">
@@ -2894,7 +2894,7 @@ const productos_azul= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxs | azul |<br>$30.000
             </div>
         </div>
     </div>
@@ -2913,7 +2913,7 @@ const productos_morado= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxl | morado |<br>$175.000
             </div>
         </div>
         <div class="producto_color_morado_2">
@@ -2928,7 +2928,7 @@ const productos_morado= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | morado |<br>$140.000
             </div>
         </div>
         <div class="producto_color_morado_3">
@@ -2943,7 +2943,7 @@ const productos_morado= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | s | morado |<br>$100.000
             </div>
         </div>
         <div class="producto_color_morado_4">
@@ -2958,7 +2958,7 @@ const productos_morado= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | m | morado |<br>$90.000
             </div>
         </div>
         <div class="producto_color_morado_5">
@@ -2973,7 +2973,7 @@ const productos_morado= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | s | morado |<br>$50.000
             </div>
         </div>
         <div class="producto_color_morado_6">
