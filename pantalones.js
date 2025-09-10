@@ -2402,6 +2402,15 @@ const productos_rojo= `
             </div>
         </div>
     </div>
+    <div id="indicadores-rojo" class="indicadores">
+        <span class="indicador activo"></span>
+        <span class="indicador"></span>
+        <span class="indicador"></span>
+        <span class="indicador"></span>
+        <span class="indicador"></span>
+    </div>
+    <div id="contenedor-color-rojo"></div>
+    <button id="verMasColorRojo">Ver más color rojo</button>
 `;
 const productos_naranja= `
     <div class="categorias_por_color_naranja">
@@ -2492,7 +2501,7 @@ const productos_naranja= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | amarillo |<br>$160.000
             </div>
         </div>
         <div class="producto_color_naranja_7">
@@ -2507,7 +2516,7 @@ const productos_naranja= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | rojo |<br>$155.000
             </div>
         </div>
         <div class="producto_color_naranja_8">
@@ -2522,7 +2531,7 @@ const productos_naranja= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | verde |<br>$150.000
             </div>
         </div>
     </div>
@@ -2631,7 +2640,7 @@ const productos_amarillo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | rojo |<br>$155.000
             </div>
         </div>
         <div class="producto_color_amarillo_8">
@@ -2646,7 +2655,7 @@ const productos_amarillo= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | verde |<br>$150.000
             </div>
         </div>
     </div>
@@ -2770,7 +2779,7 @@ const productos_verde= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | azul |<br>$195.000
             </div>
         </div>
     </div>
@@ -2988,7 +2997,7 @@ const productos_morado= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxs | azul |<br>$30.000
             </div>
         </div>
         <div class="producto_color_morado_7">
@@ -3003,7 +3012,7 @@ const productos_morado= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxs | amarillo |<br>$35.000
             </div>
         </div>
         <div class="producto_color_morado_8">
@@ -3018,7 +3027,7 @@ const productos_morado= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xs | verde |<br>$40.000
             </div>
         </div>
     </div>
@@ -3037,7 +3046,7 @@ const productos_otros_colores= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxs | azul |<br>$30.000
             </div>
         </div>
         <div class="producto_otros_colores_2">
@@ -3052,7 +3061,7 @@ const productos_otros_colores= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxs | amarillo |<br>$35.000
             </div>
         </div>
         <div class="producto_otros_colores_3">
@@ -3067,7 +3076,7 @@ const productos_otros_colores= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xs | verde |<br>$40.000
             </div>
         </div>
         <div class="producto_otros_colores_4">
@@ -3082,7 +3091,7 @@ const productos_otros_colores= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | azul |<br>$195.000
             </div>
         </div>
         <div class="producto_otros_colores_5">
@@ -3097,7 +3106,7 @@ const productos_otros_colores= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | rojo |<br>$155.000
             </div>
         </div>
         <div class="producto_otros_colores_6">
@@ -3112,7 +3121,7 @@ const productos_otros_colores= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | verde |<br>$150.000
             </div>
         </div>
         <div class="producto_otros_colores_7">
@@ -3127,7 +3136,7 @@ const productos_otros_colores= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xl | rojo |<br>$155.000
             </div>
         </div>
         <div class="producto_otros_colores_8">
@@ -3142,7 +3151,7 @@ const productos_otros_colores= `
                 <img src="imagenes/hombres1.jpg" alt="">
             </div>
             <div class="producto-footer">
-                | pantalon |  |  |<br>$
+                | pantalon | xxxl | verde |<br>$150.000
             </div>
         </div>                    
     </div>
@@ -4291,12 +4300,142 @@ const bloquesMasRecientes = [
     </div>
     `
 ];
+//---------------------------------------------//
+//--|bloques_de_color_rojo_uno_por_categoria|--//
+//---------------------------------------------//
+const bloquesColorRojo = [
+    `
+    <div class="categorias_por_color_rojo2">
+        <div class="producto_color_rojo_9">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | rojo |<br>$50.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_10">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | azul |<br>$195.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_11">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxl | naranja |<br>$180.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_12">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxl | morado |<br>$175.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_13">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xl | amarillo |<br>$160.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_14">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xl | rojo |<br>$155.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_15">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | verde |<br>$150.000
+            </div>
+        </div>
+        <div class="producto_color_rojo_16">
+            <div class="producto-header">
+                Masomy
+                <div>
+                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-heart"></i>
+                </div>
+            </div>
+            <div class="producto-body">
+                <img src="imagenes/hombres1.jpg" alt="">
+            </div>
+            <div class="producto-footer">
+                | pantalon | xxxl | morado |<br>$140.000
+            </div>
+        </div>
+    </div>
+    `
+];
 //------------------------//
 //--|indice_de_control|--//
 //------------------------//
 let indiceBloque = -1; 
 let indiceBloqueBajo = -1; 
 let indiceBloqueReciente = -1;
+let indiceBloqueRojo = -1;
 //---------------------------------//
 //--|Funcion_filtrar_ordenar_por|--//
 //---------------------------------//
@@ -4462,6 +4601,18 @@ function aplicarFiltroColor() {
     const colorOtros = document.getElementById('color-otros-colores');
     if (colorRojo && colorRojo.checked) {
         contenedor.innerHTML = productos_rojo;
+        const botonVerMasRojo = document.getElementById("verMasColorRojo");
+        const contenedorRojo = document.getElementById("contenedor-color-rojo");
+        if (botonVerMasRojo) {
+            botonVerMasRojo.addEventListener("click", () => {
+                indiceBloqueRojo++;
+                if (indiceBloqueRojo >= bloquesColorRojo.length) {
+                    indiceBloqueRojo = 0;
+                }
+                contenedorRojo.innerHTML = bloquesColorRojo[indiceBloqueRojo];
+                actualizarIndicadores("indicadores-rojo", indiceBloqueRojo);
+            });
+        }
         ocultarVerMas();
     } else if (colorNaranja && colorNaranja.checked) {
         contenedor.innerHTML = productos_naranja;
@@ -4576,10 +4727,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (clickCount - 1 < pasos.length) {
             pasos[clickCount - 1].classList.add('activo');
         }
+        let contenido = "";
         if (clickCount === 1) {
-            const productosExtra1 = `
-                <div class="producto_contenedor2">
-                    <div class="producto9">
+            contenido = `
+                <div class="categorias_ver_mas_2">
+                    <div class="producto_ver_mas_1">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4594,22 +4746,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto10">
-                        <div class="producto-header">
-                            Masomy
-                            <div>
-                                <i class="fas fa-shopping-cart"></i>
-                                <i class="fas fa-heart"></i>
-                            </div>
-                        </div>
-                        <div class="producto-body">
-                            <img src="imagenes/hombres1.jpg" alt="">
-                        </div>
-                        <div class="producto-footer">
-                            | camisa casual |  |  |<br>$
-                        </div>
-                    </div>
-                    <div class="producto11">
+                    <div class="producto_ver_mas_2">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4624,7 +4761,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto12">
+                    <div class="producto_ver_mas_3">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4639,7 +4776,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto13">
+                    <div class="producto_ver_mas_4">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4654,7 +4791,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto14">
+                    <div class="producto_ver_mas_5">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4669,7 +4806,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto15">
+                    <div class="producto_ver_mas_6">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4684,7 +4821,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto16">
+                    <div class="producto_ver_mas_7">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4698,14 +4835,28 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="producto-footer">
                             | pantalon |  |  |<br>$
                         </div>
-                    </div>      
+                    </div>
+                    <div class="producto_ver_mas_8">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
                 </div>
             `;
-            contenedor.insertAdjacentHTML('beforeend', productosExtra1);
         } else if (clickCount === 2) {
-            const productosExtra2 = `
-                <div class="producto_contenedor3">
-                    <div class="producto17">
+            contenido = `
+                <div class="categorias_ver_mas_3">
+                    <div class="producto_ver_mas_9">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4720,7 +4871,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto18">
+                    <div class="producto_ver_mas_10">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4735,7 +4886,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto19">
+                    <div class="producto_ver_mas_11">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4750,7 +4901,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto20">
+                    <div class="producto_ver_mas_12">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4765,7 +4916,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto21">
+                    <div class="producto_ver_mas_13">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4780,7 +4931,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto22">
+                    <div class="producto_ver_mas_14">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4795,7 +4946,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto23">
+                    <div class="producto_ver_mas_15">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4810,7 +4961,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             | pantalon |  |  |<br>$
                         </div>
                     </div>
-                    <div class="producto24">
+                    <div class="producto_ver_mas_16">
                         <div class="producto-header">
                             Masomy
                             <div>
@@ -4824,30 +4975,397 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="producto-footer">
                             | pantalon |  |  |<br>$
                         </div>
-                    </div>   
+                    </div>
                 </div>
             `;
-            contenedor.insertAdjacentHTML('beforeend', productosExtra2);
         } else if (clickCount === 3) {
-            const productosExtra3 = `
-                <div class="producto">Contenido Extra 3</div>
+            contenido = `
+                <div class="categorias_ver_mas_4">
+                    <div class="producto_ver_mas_17">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_18">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_19">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_20">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_21">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_22">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_23">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_24">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                </div>
             `;
-            contenedor.insertAdjacentHTML('beforeend', productosExtra3);
         } else if (clickCount === 4) {
-            const productosExtra4 = `
-                <div class="producto">Contenido Extra 4</div>
+            contenido = `
+                <div class="categorias_ver_mas_5">
+                    <div class="producto_ver_mas_25">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_26">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_27">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_28">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_29">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_30">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_31">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_32">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                </div>
             `;
-            contenedor.insertAdjacentHTML('beforeend', productosExtra4);
         } else if (clickCount === 5) {
-            const productosExtra5 = `
-                <div class="producto">Contenido Extra 5</div>
+            contenido = `
+                <div class="categorias_ver_mas_6">
+                    <div class="producto_ver_mas_33">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_34">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_35">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_36">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_37">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_38">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_39">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                    <div class="producto_ver_mas_40">
+                        <div class="producto-header">
+                            Masomy
+                            <div>
+                                <i class="fas fa-shopping-cart"></i>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="producto-body">
+                            <img src="imagenes/hombres1.jpg" alt="">
+                        </div>
+                        <div class="producto-footer">
+                            | pantalon |  |  |<br>$
+                        </div>
+                    </div>
+                </div>
             `;
-            contenedor.insertAdjacentHTML('beforeend', productosExtra5);
-            // desactivar el botón
-            btnVerMas.textContent = "ver mas";
-            btnVerMas.disabled = true;
-            btnVerMas.style.backgroundColor = "#999";
-            btnVerMas.style.cursor = "not-allowed";
+            // aquí ya no mostramos el botón
+            btnVerMas.style.display = "none";
+        }
+        if (contenido !== "") {
+            contenedor.insertAdjacentHTML('beforeend', contenido);
+            // ocultamos el botón después de añadir contenido
+            if (clickCount < 5) {
+                btnVerMas.style.display = "none";
+                // re-aparece después de un tiempo (ejemplo: 1 segundo)
+                setTimeout(() => {
+                    btnVerMas.style.display = "block";
+                }, 1000);
+            }
         }
     });
 });
