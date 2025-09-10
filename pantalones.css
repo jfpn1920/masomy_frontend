@@ -5484,9 +5484,9 @@ input[type="range"] {
 .producto-body img:hover {
     transform: scale(1.05);
 }
-/*--------------------------*/
-/*--|estilo_boton_ver_mas|--*/
-/*--------------------------*/
+/*-------------------------------*/
+/*--|estilo_base_boton_ver_mas|--*/
+/*-------------------------------*/
 .contenedor{
     margin-top: 10px;
     margin-left: 600px;

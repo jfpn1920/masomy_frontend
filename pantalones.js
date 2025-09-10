@@ -5228,15 +5228,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 </div>
             `;
-            // aquí ya no mostramos el botón
             btnVerMas.style.display = "none";
         }
         if (contenido !== "") {
             contenedor.insertAdjacentHTML('beforeend', contenido);
-            // ocultamos el botón después de añadir contenido
             if (clickCount < 4) {
                 btnVerMas.style.display = "none";
-                // re-aparece después de un tiempo (ejemplo: 1 segundo)
                 setTimeout(() => {
                     btnVerMas.style.display = "block";
                 }, 1000);
