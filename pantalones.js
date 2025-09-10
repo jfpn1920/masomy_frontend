@@ -4743,7 +4743,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | l | naranja |<br>$105.000
                         </div>
                     </div>
                     <div class="producto_ver_mas_2">
@@ -4758,7 +4758,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | l | amarillo |<br>$135.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_3">
@@ -4773,7 +4773,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | s | morado |<br>$50.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_4">
@@ -4788,7 +4788,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | s | amarillo |<br>$75.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_5">
@@ -4803,7 +4803,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xl | rojo |<br>$120.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_6">
@@ -4818,7 +4818,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | m | morado |<br>$90.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_7">
@@ -4833,7 +4833,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xxl | verde |<br>$150.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_8">
@@ -4848,7 +4848,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xxs | amarillo |<br>$35.000  
                         </div>
                     </div>
                 </div>
@@ -4868,7 +4868,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xxl | rojo |<br>$125.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_10">
@@ -4883,7 +4883,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | m | amarillo |<br>$60.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_11">
@@ -4898,7 +4898,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xxxl | azul |<br>$195.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_12">
@@ -4913,7 +4913,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xl | rojo |<br>$155.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_13">
@@ -4928,7 +4928,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xxl | azul |<br>$135.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_14">
@@ -4943,7 +4943,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xs | rojo |<br>$80.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_15">
@@ -4958,7 +4958,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xxxl | azul |<br>$100.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_16">
@@ -4973,7 +4973,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xs | verde |<br>$40.000  
                         </div>
                     </div>
                 </div>
@@ -4993,7 +4993,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xxs | verde |<br>$60.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_18">
@@ -5008,7 +5008,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | l | verde |<br>$140.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_19">
@@ -5023,7 +5023,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xxl | verde |<br>$90.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_20">
@@ -5038,7 +5038,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xl | amarillo |<br>$160.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_21">
@@ -5053,7 +5053,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xs | rojo |<br>$60.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_22">
@@ -5068,7 +5068,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xs | rojo |<br>$75.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_23">
@@ -5083,7 +5083,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | s | naranja |<br>$65.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_24">
@@ -5098,7 +5098,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | m | azul |<br>$120.000 
                         </div>
                     </div>
                 </div>
@@ -5118,7 +5118,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | s | naranja |<br>$95.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_26">
@@ -5133,7 +5133,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xl | naranja |<br>$80.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_27">
@@ -5148,7 +5148,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | s | morado |<br>$100.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_28">
@@ -5163,7 +5163,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | l | verde |<br>$95.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_29">
@@ -5178,7 +5178,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xl | amarillo |<br>$110.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_30">
@@ -5193,7 +5193,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xs | rojo |<br>$50.000  
                         </div>
                     </div>
                     <div class="producto_ver_mas_31">
@@ -5208,7 +5208,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xxl | morado |<br>$175.000 
                         </div>
                     </div>
                     <div class="producto_ver_mas_32">
@@ -5223,132 +5223,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <img src="imagenes/hombres1.jpg" alt="">
                         </div>
                         <div class="producto-footer">
-                            | pantalon |  |  |<br>$
-                        </div>
-                    </div>
-                </div>
-            `;
-        } else if (clickCount === 5) {
-            contenido = `
-                <div class="categorias_ver_mas_6">
-                    <div class="producto_ver_mas_33">
-                        <div class="producto-header">
-                            Masomy
-                            <div>
-                                <i class="fas fa-shopping-cart"></i>
-                                <i class="fas fa-heart"></i>
-                            </div>
-                        </div>
-                        <div class="producto-body">
-                            <img src="imagenes/hombres1.jpg" alt="">
-                        </div>
-                        <div class="producto-footer">
-                            | pantalon |  |  |<br>$
-                        </div>
-                    </div>
-                    <div class="producto_ver_mas_34">
-                        <div class="producto-header">
-                            Masomy
-                            <div>
-                                <i class="fas fa-shopping-cart"></i>
-                                <i class="fas fa-heart"></i>
-                            </div>
-                        </div>
-                        <div class="producto-body">
-                            <img src="imagenes/hombres1.jpg" alt="">
-                        </div>
-                        <div class="producto-footer">
-                            | pantalon |  |  |<br>$
-                        </div>
-                    </div>
-                    <div class="producto_ver_mas_35">
-                        <div class="producto-header">
-                            Masomy
-                            <div>
-                                <i class="fas fa-shopping-cart"></i>
-                                <i class="fas fa-heart"></i>
-                            </div>
-                        </div>
-                        <div class="producto-body">
-                            <img src="imagenes/hombres1.jpg" alt="">
-                        </div>
-                        <div class="producto-footer">
-                            | pantalon |  |  |<br>$
-                        </div>
-                    </div>
-                    <div class="producto_ver_mas_36">
-                        <div class="producto-header">
-                            Masomy
-                            <div>
-                                <i class="fas fa-shopping-cart"></i>
-                                <i class="fas fa-heart"></i>
-                            </div>
-                        </div>
-                        <div class="producto-body">
-                            <img src="imagenes/hombres1.jpg" alt="">
-                        </div>
-                        <div class="producto-footer">
-                            | pantalon |  |  |<br>$
-                        </div>
-                    </div>
-                    <div class="producto_ver_mas_37">
-                        <div class="producto-header">
-                            Masomy
-                            <div>
-                                <i class="fas fa-shopping-cart"></i>
-                                <i class="fas fa-heart"></i>
-                            </div>
-                        </div>
-                        <div class="producto-body">
-                            <img src="imagenes/hombres1.jpg" alt="">
-                        </div>
-                        <div class="producto-footer">
-                            | pantalon |  |  |<br>$
-                        </div>
-                    </div>
-                    <div class="producto_ver_mas_38">
-                        <div class="producto-header">
-                            Masomy
-                            <div>
-                                <i class="fas fa-shopping-cart"></i>
-                                <i class="fas fa-heart"></i>
-                            </div>
-                        </div>
-                        <div class="producto-body">
-                            <img src="imagenes/hombres1.jpg" alt="">
-                        </div>
-                        <div class="producto-footer">
-                            | pantalon |  |  |<br>$
-                        </div>
-                    </div>
-                    <div class="producto_ver_mas_39">
-                        <div class="producto-header">
-                            Masomy
-                            <div>
-                                <i class="fas fa-shopping-cart"></i>
-                                <i class="fas fa-heart"></i>
-                            </div>
-                        </div>
-                        <div class="producto-body">
-                            <img src="imagenes/hombres1.jpg" alt="">
-                        </div>
-                        <div class="producto-footer">
-                            | pantalon |  |  |<br>$
-                        </div>
-                    </div>
-                    <div class="producto_ver_mas_40">
-                        <div class="producto-header">
-                            Masomy
-                            <div>
-                                <i class="fas fa-shopping-cart"></i>
-                                <i class="fas fa-heart"></i>
-                            </div>
-                        </div>
-                        <div class="producto-body">
-                            <img src="imagenes/hombres1.jpg" alt="">
-                        </div>
-                        <div class="producto-footer">
-                            | pantalon |  |  |<br>$
+                            | pantalon | xxs | azul |<br>$30.000  
                         </div>
                     </div>
                 </div>
@@ -5359,7 +5234,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (contenido !== "") {
             contenedor.insertAdjacentHTML('beforeend', contenido);
             // ocultamos el botón después de añadir contenido
-            if (clickCount < 5) {
+            if (clickCount < 4) {
                 btnVerMas.style.display = "none";
                 // re-aparece después de un tiempo (ejemplo: 1 segundo)
                 setTimeout(() => {
