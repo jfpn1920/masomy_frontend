@@ -5232,6 +5232,15 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         if (contenido !== "") {
             contenedor.insertAdjacentHTML('beforeend', contenido);
+            const productos = contenedor.querySelectorAll('[class^="producto_ver_mas_"]');
+            productos.forEach(prod => {
+                if (!prod.dataset.clickable) {
+                    prod.dataset.clickable = "true";
+                    prod.addEventListener('click', () => {
+                        window.location.href = "vista_previa.html";
+                    });
+                }
+            });
             if (clickCount < 4) {
                 btnVerMas.style.display = "none";
                 setTimeout(() => {

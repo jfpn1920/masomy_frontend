@@ -4971,7 +4971,24 @@ input[type="range"] {
     flex-direction: column;
     font-family: Arial, sans-serif;
     animation: fadeInScale 0.6s ease-in-out;
+
+    /* Mantener clickeable como tarjeta */
+    cursor: pointer;
 }
+
+/* 👉 Quitar color azul y subrayado de cualquier <a> dentro */
+.producto_ver_mas_5 a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* 👉 Efecto hover para que parezca tarjeta clickeable */
+.producto_ver_mas_5:hover {
+    transform: scale(1.02);
+    transition: transform 0.2s ease;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
+}
+
 .producto_ver_mas_6 {
     width: 260px;
     height: auto;
